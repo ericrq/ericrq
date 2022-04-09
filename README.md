@@ -45,9 +45,9 @@ Um sistema De Registro Com Uma Tabela De Administração Usando PHP, POO e Crud 
 
 #### 🚗 __Projeto Tesla Cars__
 Recriação Do Site Da [Tesla](https://www.tesla.com/)<br>
-[![Projeto Assistencia Tecnica](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericrq/Projeto-Tesla-Cars)
+[![Projeto Assistencia Tecnica](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://ericrq.github.io/Projeto-Tesla-Cars/)
 
 #### 👚 __Projeto Lolja__
 Recriação Do Site Da [LoLja](https://www.lolja.com.br/)<br>
-[![Projeto Assistencia Tecnica](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericrq/Projeto-Lolja)
+[![Projeto Assistencia Tecnica](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://ericrq.github.io/Projeto-Lolja/)
 <h1>
