@@ -207,4 +207,4 @@ Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela
 
 <hr>
 
-</div>
+</div> 
