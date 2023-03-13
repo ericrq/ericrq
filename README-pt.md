@@ -1,6 +1,7 @@
 <div align="center">
 
-<h1>Eric <img src="img/person-fill.svg" width="25"></h1>
+
+<img src="img/EricTitle.svg" width="15%">
 
 <div align="justify">
 Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computador aos 6 anos de idade, fiquei fascinado por tecnologia começando a estudar hardware, focando meus estudos nessa área até o final do ensino médio. Ao entrar para a faculdade de análise e desenvolvimento de sistemas, decidi me dedicar ao desenvolvimento de software, com foco em front-end. Atualmente estou no 5º semestre da faculdade, dedicando-me a aprimorar minhas habilidades em programação e design. Fora da faculdade, gosto de passar meu tempo livre trabalhando em projetos pessoais e aprendendo novas tecnologias.
@@ -8,13 +9,14 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 
 <hr>
 
-# Redes Sociais <img src="img/emoji-smile-fill.svg" width="25">
+<img src="img/sociaisTitle.svg" width="35%">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eric_rq) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric_rq/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericrq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericbaldissera/)
 
 <hr>
 
-# Habilidades <img src="img/lightbulb-fill.svg" width="25">
+<img src="img/skillsTitle.svg" width="35%">
+
 #### Linguagens Front-End <img src="img/code-slash.svg" width="15">
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -34,7 +36,7 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <hr>
 
-# Projetos <img src="img/clipboard-fill.svg" width="25">
+<img src="img/projetosTitle.svg" width="30%"><br>
 
 <!-- rickandmorty -->
 <img src="img/ProjetoRickAndMorty.png" width="50%" align="left">
@@ -149,7 +151,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 </div>
 
 <a href="https://github.com/ericrq/Sistema-De-Crud">
-<img src="img/ProjetoOnline.svg" align="left">
+<img src="img/C" align="left">
 </a>
 
 <br><br>
