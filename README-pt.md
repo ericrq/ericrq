@@ -15,24 +15,30 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 
 <hr>
 
-<img src="img/skillsTitle.svg" width="35%">
+<img src="img/skillsTitle.svg" width="35%"><br>
 
-#### Linguagens Front-End <img src="img/code-slash.svg" width="15">
+<img src="img/frontTitle.svg" width="35%">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Linguagens Back-End <img src="img/braces.svg" width="15">
+<img src="img/backTitle.svg" width="35%">
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-#### Frameworks - Front-End <img src="img/code-slash.svg" width="15">
+<img src="img/framworksFronTitle.svg" width="35%">
+
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-#### Frameworks - Back-End <img src="img/braces.svg" width="15">
+<img src="img/framworksBackTitle.svg" width="35%">
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-#### Banco de Dados <img src="img/database-fill.svg" width="15">
+<img src="img/bdTitle.svg" width="25%">
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Design <img src="img/palette-fill.svg" width="15">
+<img src="img/designTitle.svg" width="15%">
+
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 <hr>
 
