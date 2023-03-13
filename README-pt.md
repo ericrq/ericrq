@@ -206,5 +206,5 @@ Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela
 <br>
 
 <hr>
- 
+
 </div>
