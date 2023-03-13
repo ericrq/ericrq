@@ -1,6 +1,5 @@
 <div align="center">
 
-
 <img src="img/EricTitle.svg" width="15%">
 
 <div align="justify">
@@ -15,7 +14,7 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 
 <hr>
 
-<img src="img/skillsTitle.svg" width="35%"><br>
+<img src="img/skillsTitle.svg" width="35%">
 
 <img src="img/frontTitle.svg" width="35%">
 
