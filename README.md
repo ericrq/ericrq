@@ -5,7 +5,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/assitenciTecnica.png">
   <source media="(prefers-color-scheme: light)" srcset="img/cardumeDigital.png">
-    <img src="img/assitenciTecnica.png">
 </picture>
 
 
