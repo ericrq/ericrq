@@ -3,9 +3,9 @@
 <!-- <img src="img/EricTitle.svg"> -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/assitenciTecnica.png">
-  <source media="(prefers-color-scheme: light)" srcset="img/cardumeDigital.png">
-    <img src="img/assitenciTecnica.png">
+  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/Name.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/Name.svg">
+    <img src="img/colorSchemeLight/Name.svg">
 </picture>
 
 
