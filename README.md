@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="img/EricTitle.svg">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/Name.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/Name.svg">
