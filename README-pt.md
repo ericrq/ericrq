@@ -62,7 +62,7 @@ Um projeto com o objetivo de praticar o framework Vue.js e o consumo de uma API 
 
 <!-- Teste Dev Cardume Digital -->
 
-<h4>Teste Dev Cardume Digital</h4>
+<h3>Teste Dev Cardume Digital</h3>
 
 <div align="justify">
 
@@ -79,7 +79,7 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
 
 <!-- Layout da Louna Skylander -->
 
-<h4>Layout da Louna Skylander</h4>
+<h3>Layout da Louna Skylander</h3>
 
 <div align="justify">
 
@@ -95,7 +95,7 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
 <img src="img/LounaSkylander.png" width="100%">
 
 <!-- Assitencia Tecnica - Spring -->
-<h4>Assitencia Tecnica - Spring</h4>
+<h3>Assitencia Tecnica - Spring</h3>
 
 <div align="justify">
 
@@ -111,8 +111,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 <img src="img/assitenciTecnica.png" width="100%">
 
 <!-- Assistencia Tecnica - Laravel -->
-<h4>Assistencia Tecnica - Laravel
-</h4>
+<h3>Assistencia Tecnica - Laravel</h3>
 
 <div align="justify">
 
@@ -128,7 +127,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 <img src="img/assitenciTecnica.png" width="100%">
 
 <!-- Assistencia Tecnica - Poo -->
-<h4>Assistencia Tecnica - Poo</h4>
+<h3>Assistencia Tecnica - Poo</h3>
 
 <div align="justify">
 
@@ -144,7 +143,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com P
 <img src="img/assitenciTecnica.png" width="100%">
 
 <!-- Sistema De Crud -->
-<h4>Sistema De Crud</h4>
+<h3>Sistema De Crud</h3>
 
 <div align="justify">
 
@@ -160,7 +159,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 <img src="img/crud.png" width="100%">
 
 <!-- Clone Tesla Cars -->
-<h4>Clone Tesla Cars</h4>
+<h3>Clone Tesla Cars</h3>
 
 <div align="justify">
 
@@ -176,7 +175,7 @@ Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cy
 <img src="img/tesla.png" width="100%">
 
 <!-- Clone Lolja -->
-<h4>Clone Lolja</h4>
+<h3>Clone Lolja</h3>
 
 <div align="justify">
 
@@ -192,7 +191,7 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
 <img src="img/lolja.png" width="100%">
 
 <!-- Atlas Covid -->
-<h4>Atlas Covid</h4>
+<h3>Atlas Covid</h3>
 
 <div align="justify">
 
