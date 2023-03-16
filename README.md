@@ -132,7 +132,7 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
 </div>
 
 <a href="https://github.com/ericrq/ProjetoBootStrap5">
-<img src="img/Project/Thumb/ProjetoOnline.svg">
+<img src="img/Project/Thumb/../Buttons/ProjetoOnline.svg">
 </a>
 <br><br>
 
