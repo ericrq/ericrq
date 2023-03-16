@@ -47,11 +47,21 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 
 <h3>Projeto Rick and Morty</h3>
 
-<div align="justify">
-
-Um projeto com o objetivo de praticar o framework Vue.js e o consumo de uma API pública. Foi utilizado a API da série Rick and Morty.
-
+<div align="center">
+<dl>
+  <dd>
+    <dl>
+      <dd>
+            <div align="justify">
+            Um projeto com o objetivo de praticar o framework Vue.js e o consumo de uma API pública. Foi utilizado a API da série Rick and Morty.
+            </div>      
+      </dd>
+    </dl>
+  </dd>
+</dl>
 </div>
+
+
 
 <a href="https://github.com/ericrq/RickAndMorty">
 <img src="img/ProjetoOnline.svg">
@@ -212,19 +222,5 @@ Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela
 <img src="img/covid.png" width="100%">
 
 <hr>
-
-</div>
-
-<div align="center">
-
-<dl>
-  <dd>
-    <dl>
-      <dd>
-        Multiple levels seems to be possible?
-      </dd>
-    </dl>
-  </dd>
-</dl>
 
 </div>
