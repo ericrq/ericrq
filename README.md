@@ -15,13 +15,22 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 <hr>
 
 <!-- social midia -->
-<img src="img/sociaisTitle.svg"><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/SocialMidia.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/SocialMidia.svg">
+    <img src="img/colorSchemeLight/SocialMidia.svg">
+</picture>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eric_rq) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric_rq/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericrq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericbaldissera/)
 
 <hr>
 <!-- skills -->
-<img src="img/skillsTitle.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/Skills.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/Skills.svg">
+    <img src="img/colorSchemeLight/Skills.svg">
+</picture>
+
 <br>
 <img src="img/frontTitle.svg">
 
@@ -49,6 +58,12 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 <hr>
 
 <img src="img/projetosTitle.svg"><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/Project.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/Project.svg">
+    <img src="img/colorSchemeLight/Project.svg">
+</picture>
 
 <!-- rickandmorty -->
 
