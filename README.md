@@ -51,11 +51,18 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 <dl>
   <dd>
     <dl>
+      <dd><dl>
+  <dd>
+    <dl>
       <dd>
             <div align="justify">
             Um projeto com o objetivo de praticar o framework Vue.js e o consumo de uma API pública. Foi utilizado a API da série Rick and Morty.
             </div>      
       </dd>
+    </dl>
+  </dd>
+</dl>
+ </dd>
     </dl>
   </dd>
 </dl>
