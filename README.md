@@ -3,8 +3,8 @@
 <!-- <img src="img/EricTitle.svg"> -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/Name.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/Name.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/mainTitles/Name.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/mainTitles/Name.svg">
     <img src="img/colorSchemeLight/Name.svg">
 </picture>
 
@@ -16,8 +16,8 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 
 <!-- social midia -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/SocialMidia.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/SocialMidia.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/mainTitles/SocialMidia.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/mainTitles/SocialMidia.svg">
     <img src="img/colorSchemeLight/SocialMidia.svg">
 </picture>
 
@@ -26,8 +26,8 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 <hr>
 <!-- skills -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/Skills.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/Skills.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/mainTitles/Skills.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/mainTitles/Skills.svg">
     <img src="img/colorSchemeLight/Skills.svg">
 </picture>
 
@@ -58,8 +58,8 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 <hr>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/Project.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/Project.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/mainTitles/Project.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/mainTitles/Project.svg">
     <img src="img/colorSchemeLight/Project.svg">
 </picture>
 
