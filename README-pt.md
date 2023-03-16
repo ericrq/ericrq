@@ -44,7 +44,7 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 <img src="img/projetosTitle.svg"><br>
 
 <!-- rickandmorty -->
-<img src="img/ProjetoRickAndMorty.png" width="50%" align="left">
+<img src="img/ProjetoRickAndMorty.png" width="400" align="left">
 
 <h4 align="left">Projeto Rick and Morty</h4>
 
@@ -60,7 +60,7 @@ Um projeto com o objetivo de praticar o framework Vue.js e o consumo de uma API 
 <br><br><br>
 
 <!-- Teste Dev Cardume Digital -->
-<img src="img/cardumeDigital.png" width="50%" align="left">
+<img src="img/cardumeDigital.png" width="400" align="left">
 
 <h4 align="left">Teste Dev Cardume Digital</h4>
 
@@ -76,7 +76,7 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
 <br><br>
 
 <!-- Layout da Louna Skylander -->
-<img src="img/LounaSkylander.png" width="50%" align="left">
+<img src="img/LounaSkylander.png" width="400" align="left">
 
 <h4 align="left">Layout da Louna Skylander</h4>
 
@@ -93,7 +93,7 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
 <br><br>
 
 <!-- Assitencia Tecnica - Spring -->
-<img src="img/assitenciTecnica.png" width="50%" align="left">
+<img src="img/assitenciTecnica.png" width="400" align="left">
 
 <h4 align="left">Assitencia Tecnica - Spring</h4>
 
@@ -110,7 +110,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 <br><br>
 
 <!-- Assistencia Tecnica - Laravel -->
-<img src="img/assitenciTecnica.png" width="50%" align="left">
+<img src="img/assitenciTecnica.png" width="400" align="left">
 
 <h4 align="left">Assistencia Tecnica - Laravel
 </h4>
@@ -128,7 +128,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 <br><br>
 
 <!-- Assistencia Tecnica - Poo -->
-<img src="img/assitenciTecnica.png" width="50%" align="left">
+<img src="img/assitenciTecnica.png" width="400" align="left">
 
 <h4 align="left">Assistencia Tecnica - Poo</h4>
 
@@ -145,7 +145,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com P
 <br><br>
 
 <!-- Sistema De Crud -->
-<img src="img/crud.png" width="50%" align="left">
+<img src="img/crud.png" width="400" align="left">
 
 <h4 align="left">Sistema De Crud</h4>
 
@@ -162,7 +162,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 <br><br>
 
 <!-- Clone Tesla Cars -->
-<img src="img/tesla.png" width="50%" align="left">
+<img src="img/tesla.png" width="400" align="left">
 
 <h4 align="left">Clone Tesla Cars</h4>
 
@@ -179,7 +179,7 @@ Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cy
 <br><br><br>
 
 <!-- Clone Lolja -->
-<img src="img/lolja.png"     width="50%" align="left">
+<img src="img/lolja.png"     width="400" align="left">
 
 <h4 align="left">Clone Lolja</h4>
 
@@ -196,7 +196,7 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
 <br><br><br>
 
 <!-- Atlas Covid -->
-<img src="img/covid.png" width="50%" align="left">
+<img src="img/covid.png" width="400" align="left">
 
 <h4 align="left">Atlas Covid
 </h4>
