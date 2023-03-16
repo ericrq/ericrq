@@ -111,8 +111,12 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 <img src="img/assitenciTecnica.png" width="100%">
 
 <!-- Assistencia Tecnica - Laravel -->
+<<<<<<< HEAD
 <h3>Assistencia Tecnica - Laravel
 </h3>
+=======
+<h3>Assistencia Tecnica - Laravel</h3>
+>>>>>>> f5802cd885756212577dad2cdfd534e8b3aa0f93
 
 <div align="justify">
 
