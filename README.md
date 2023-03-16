@@ -2,6 +2,12 @@
 
 <img src="img/EricTitle.svg">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/Name.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/Name.svg">
+</picture>
+
+
 <div align="justify">
 Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computador aos 6 anos de idade, fiquei fascinado por tecnologia começando a estudar hardware, focando meus estudos nessa área até o final do ensino médio. Ao entrar para a faculdade de análise e desenvolvimento de sistemas, decidi me dedicar ao desenvolvimento de software, com foco em front-end. Atualmente estou no 5º semestre da faculdade, dedicando-me a aprimorar minhas habilidades em programação e design. Fora da faculdade, gosto de passar meu tempo livre trabalhando em projetos pessoais e aprendendo novas tecnologias.
 </div>
