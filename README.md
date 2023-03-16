@@ -98,11 +98,11 @@ Um projeto com o objetivo de praticar o framework Vue.js e o consumo de uma API 
 </div>
                                  
 <a href="https://github.com/ericrq/RickAndMorty">
-<img src="img/ProjetoOnline.svg">
+<img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 <br><br>
 
-<img src="img/ProjetoRickAndMorty.png" width="100%">
+<img src="img/Project/Thumb/ProjetoRickAndMorty.png" width="100%">
 
 <!-- Teste Dev Cardume Digital -->
 
@@ -115,11 +115,11 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
 </div>
 
 <a href="https://github.com/ericrq/TesteDev-CardumeDigital">
-<img src="img/ProjetoOnline.svg">
+<img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 <br><br>
 
-<img src="img/cardumeDigital.png" width="100%">
+<img src="img/Project/Thumb/cardumeDigital.png" width="100%">
 
 <!-- Layout da Louna Skylander -->
 
@@ -132,11 +132,11 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
 </div>
 
 <a href="https://github.com/ericrq/ProjetoBootStrap5">
-<img src="img/ProjetoOnline.svg">
+<img src="img/Project/Thumb/ProjetoOnline.svg">
 </a>
 <br><br>
 
-<img src="img/LounaSkylander.png" width="100%">
+<img src="img/Project/Thumb/LounaSkylander.png" width="100%">
 
 <!-- Assitencia Tecnica - Spring -->
 <h3>Assitencia Tecnica - Spring</h3>
@@ -148,11 +148,11 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 </div>
 
 <a href="https://github.com/ericrq/ProjetoAssitenciaTenicaJavaSpring">
-<img src="img/ProjetoOnline.svg">
+<img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 <br><br>
 
-<img src="img/assitenciTecnica.png" width="100%">
+<img src="img/Project/Thumb/assitenciTecnica.png" width="100%">
 
 <!-- Assistencia Tecnica - Laravel -->
 <h3>Assistencia Tecnica - Laravel</h3>
@@ -164,11 +164,11 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 </div>
 
 <a href="https://github.com/ericrq/ProjetoAssistenciaTecnicaLaravelPHP">
-<img src="img/ProjetoOnline.svg">
+<img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 <br><br>
 
-<img src="img/assitenciTecnica.png" width="100%">
+<img src="img/Project/Thumb/assitenciTecnica.png" width="100%">
 
 <!-- Assistencia Tecnica - Poo -->
 <h3>Assistencia Tecnica - Poo</h3>
@@ -180,11 +180,11 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com P
 </div>
 
 <a href="https://github.com/ericrq/ProjetoAssistenciaTecnicaPHP">
-<img src="img/ProjetoOnline.svg">
+<img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 <br><br>
 
-<img src="img/assitenciTecnica.png" width="100%">
+<img src="img/Project/Thumb/assitenciTecnica.png" width="100%">
 
 <!-- Sistema De Crud -->
 <h3>Sistema De Crud</h3>
@@ -196,11 +196,11 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 </div>
 
 <a href="https://github.com/ericrq/Sistema-De-Crud">
-<img src="img/ProjetoOnline.svg">
+<img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 <br><br>
 
-<img src="img/crud.png" width="100%">
+<img src="img/Project/Thumb/crud.png" width="100%">
 
 <!-- Clone Tesla Cars -->
 <h3>Clone Tesla Cars</h3>
@@ -212,11 +212,11 @@ Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cy
 </div>
 
 <a href="https://github.com/ericrq/Projeto-Tesla-Cars">
-<img src="img/ProjetoOnline.svg">
+<img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 <br><br>
 
-<img src="img/tesla.png" width="100%">
+<img src="img/Project/Thumb/tesla.png" width="100%">
 
 <!-- Clone Lolja -->
 <h3>Clone Lolja</h3>
@@ -228,11 +228,11 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
 </div>
 
 <a href="https://github.com/ericrq/Projeto-Lolja">
-<img src="img/ProjetoOnline.svg">
+<img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 <br><br>
 
-<img src="img/lolja.png" width="100%">
+<img src="img/Project/Thumb/lolja.png" width="100%">
 
 <!-- Atlas Covid -->
 <h3>Atlas Covid</h3>
@@ -244,11 +244,11 @@ Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela
 </div>
 
 <a href="https://github.com/ericrq/Projeto-Covid">
-<img src="img/ProjetoOnline.svg">
+<img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 <br><br>
 
-<img src="img/covid.png" width="100%">
+<img src="img/Project/Thumb/covid.png" width="100%">
 
 <hr>
 
