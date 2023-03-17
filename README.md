@@ -228,7 +228,7 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
 <!-- Atlas Covid -->
 <h3>Atlas Covid</h3>
 
-<img src="img/Project/gifsThumbs/covid.gif" loading="lazy">
+<img src="img/Project/gifsThumbs/covid.gif" loading="lazy" width="100%">
 
 <div align="justify">
 
