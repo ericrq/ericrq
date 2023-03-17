@@ -95,7 +95,7 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
     <img src="img/colorSchemeLight/projetos/RickandMorty.svg">
 </picture>
 
-<img src="img/Project/Thumb/ProjetoRickAndMorty.png" width="100%">
+<img src="img/Project/gifsThumbs/rickAndMorty.gif" width="100%">
 
 <div align="justify">
 
@@ -155,7 +155,7 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
     <img src="img/colorSchemeLight/projetos/AssitenciaTecnicaSpring.svg">
 </picture>
 
-<img src="img/Project/Thumb/assitenciTecnica.png" width="100%">
+<img src="img/Project/gifsThumbs/assitencia-tecnica.gif" width="100%">
 
 <div align="justify">
 
@@ -175,7 +175,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
     <img src="img/colorSchemeLight/projetos/AssistenciaTecnicaLaravel.svg">
 </picture>
 
-<img src="img/Project/Thumb/assitenciTecnica.png" width="100%">
+<img src="img/Project/gifsThumbs/assitencia-tecnica.gif" width="100%">
 
 <div align="justify">
 
@@ -195,7 +195,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
     <img src="img/colorSchemeLight/projetos/AssistenciaTecnicaPoo.svg">
 </picture>
 
-<img src="img/Project/Thumb/assitenciTecnica.png" width="100%">
+<img src="img/Project/gifsThumbs/assitencia-tecnica.gif" width="100%">
 
 <div align="justify">
 
@@ -217,7 +217,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com P
 
 <div align="justify">
 
-<img src="img/Project/Thumb/crud.png" width="100%">
+<img src="img/Project/gifsThumbs/crud.gif" width="100%">
 
 Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MySQL. Permite cadastro, leitura, atualização e exclusão de registros na tabela
 
