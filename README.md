@@ -91,6 +91,8 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 
 <h3>Projeto Rick and Morty</h3>
 
+<img src="img/Project/Thumb/ProjetoRickAndMorty.png" width="100%">
+
 <div align="justify">
 
 Um projeto com o objetivo de praticar o framework Vue.js e o consumo de uma API pública. Foi utilizado a API da série Rick and Morty.
@@ -100,13 +102,12 @@ Um projeto com o objetivo de praticar o framework Vue.js e o consumo de uma API 
 <a href="https://github.com/ericrq/RickAndMorty">
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
-<br><br>
-
-<img src="img/Project/Thumb/ProjetoRickAndMorty.png" width="100%">
 
 <!-- Teste Dev Cardume Digital -->
 
 <h3>Teste Dev Cardume Digital</h3>
+
+<img src="img/Project/gifsThumbs/cardume.gif" width="100%">
 
 <div align="justify">
 
@@ -117,13 +118,12 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
 <a href="https://github.com/ericrq/TesteDev-CardumeDigital">
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
-<br><br>
-
-<img src="img/Project/Thumb/cardumeDigital.png" width="100%">
 
 <!-- Layout da Louna Skylander -->
 
 <h3>Layout da Louna Skylander</h3>
+
+<img src="img/Project/gifsThumbs/LayoutLounaSkylander.gif" width="100%">
 
 <div align="justify">
 
@@ -134,12 +134,11 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
 <a href="https://github.com/ericrq/ProjetoBootStrap5">
 <img src="img/Project/Thumb/../Buttons/ProjetoOnline.svg">
 </a>
-<br><br>
-
-<img src="img/Project/Thumb/LounaSkylander.png" width="100%">
 
 <!-- Assitencia Tecnica - Spring -->
 <h3>Assitencia Tecnica - Spring</h3>
+
+<img src="img/Project/Thumb/assitenciTecnica.png" width="100%">
 
 <div align="justify">
 
@@ -150,12 +149,11 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 <a href="https://github.com/ericrq/ProjetoAssitenciaTenicaJavaSpring">
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
-<br><br>
-
-<img src="img/Project/Thumb/assitenciTecnica.png" width="100%">
 
 <!-- Assistencia Tecnica - Laravel -->
 <h3>Assistencia Tecnica - Laravel</h3>
+
+<img src="img/Project/Thumb/assitenciTecnica.png" width="100%">
 
 <div align="justify">
 
@@ -166,12 +164,11 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 <a href="https://github.com/ericrq/ProjetoAssistenciaTecnicaLaravelPHP">
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
-<br><br>
-
-<img src="img/Project/Thumb/assitenciTecnica.png" width="100%">
 
 <!-- Assistencia Tecnica - Poo -->
 <h3>Assistencia Tecnica - Poo</h3>
+
+<img src="img/Project/Thumb/assitenciTecnica.png" width="100%">
 
 <div align="justify">
 
@@ -182,14 +179,13 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com P
 <a href="https://github.com/ericrq/ProjetoAssistenciaTecnicaPHP">
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
-<br><br>
-
-<img src="img/Project/Thumb/assitenciTecnica.png" width="100%">
 
 <!-- Sistema De Crud -->
 <h3>Sistema De Crud</h3>
 
 <div align="justify">
+
+<img src="img/Project/Thumb/crud.png" width="100%">
 
 Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MySQL. Permite cadastro, leitura, atualização e exclusão de registros na tabela
 
@@ -198,12 +194,11 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 <a href="https://github.com/ericrq/Sistema-De-Crud">
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
-<br><br>
-
-<img src="img/Project/Thumb/crud.png" width="100%">
 
 <!-- Clone Tesla Cars -->
 <h3>Clone Tesla Cars</h3>
+
+<img src="img/Project/gifsThumbs/teslaCars.gif" width="100%">
 
 <div align="justify">
 
@@ -214,12 +209,11 @@ Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cy
 <a href="https://github.com/ericrq/Projeto-Tesla-Cars">
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
-<br><br>
-
-<img src="img/Project/Thumb/tesla.png" width="100%">
 
 <!-- Clone Lolja -->
 <h3>Clone Lolja</h3>
+
+<img src="img/Project/gifsThumbs/lolJa.gif" width="100%">
 
 <div align="justify">
 
@@ -230,12 +224,11 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
 <a href="https://github.com/ericrq/Projeto-Lolja">
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
-<br><br>
-
-<img src="img/Project/Thumb/lolja.png" width="100%">
 
 <!-- Atlas Covid -->
 <h3>Atlas Covid</h3>
+
+<img src="img/Project/gifsThumbs/covid.gif" width="100%">
 
 <div align="justify">
 
@@ -246,9 +239,6 @@ Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela
 <a href="https://github.com/ericrq/Projeto-Covid">
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
-<br><br>
-
-<img src="img/Project/Thumb/covid.png" width="100%">
 
 <hr>
 
