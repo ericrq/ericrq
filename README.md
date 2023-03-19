@@ -274,7 +274,7 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AtlasCovid.svg">
     <img src="img/colorSchemeLight/projetos/AtlasCovid.svg">
 </picture>
-<img src="img/Project/gifsThumbs/covid.gif" width="100%">
+<img src="https://ik.imagekit.io/ericrq/gifsReadmeGithub/covid.gif" width="100%">
 
 <div align="justify">
 
@@ -282,8 +282,8 @@ Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela
 
 </div>
 
-<a href="https://github.com/ericrq/Projeto-Covid">
-<img src="https://ik.imagekit.io/ericrq/gifsReadmeGithub/covid.gif">
+<a href="https://github.com/ericrq/Projeto-Lolja">
+<img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 
 <hr>
