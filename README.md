@@ -195,7 +195,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
     <img src="img/colorSchemeLight/projetos/AssistenciaTecnicaPoo.svg">
 </picture>
 
-<img src="img/Project/gifsThumbs/assitencia-tecnica.gif" width="100%">
+<img src="https://ik.imagekit.io/ericrq/gifsReadmeGithub/assitencia-tecnica.gif" width="100%">
 
 <div align="justify">
 
@@ -274,7 +274,7 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AtlasCovid.svg">
     <img src="img/colorSchemeLight/projetos/AtlasCovid.svg">
 </picture>
-<img src="https://ik.imagekit.io/ericrq/gifsReadmeGithub/covid.gif" width="100%">
+<img src="img/Project/gifsThumbs/covid.gif" width="100%">
 
 <div align="justify">
 
