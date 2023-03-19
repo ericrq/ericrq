@@ -276,25 +276,15 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
 </picture>
 <img src="img/Project/gifsThumbs/covid.gif" width="100%">
 
-<div>
+<div align="justify">
 
-<div align="left">
-
-<p align="justify">
 Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela, vídeos informativos, perguntas e respostas. Feito com HTML e CSS.
-</p>
 
 </div>
-
-<div align="right">
 
 <a href="https://github.com/ericrq/Projeto-Covid">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="https://ik.imagekit.io/ericrq/gifsReadmeGithub/covid.gif">
 </a>
-
-</div>
-
-</div>
 
 <hr>
 
