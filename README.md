@@ -268,8 +268,9 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
 </a>
 
 <!-- Atlas Covid -->
+<br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AtlasCovid.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AtlasCovidMargin.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AtlasCovid.svg">
     <img src="img/colorSchemeLight/projetos/AtlasCovid.svg">
 </picture>
