@@ -88,7 +88,6 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 </picture>
 
 <!-- rickandmorty -->
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/RickandMorty.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/RickandMorty.svg">
@@ -106,7 +105,6 @@ Um projeto com o objetivo de praticar o framework Vue.js e o consumo de uma API 
 [![btnProjetoOnline](img/Project/Buttons/ProjetoOnline.svg)](https://github.com/ericrq/RickAndMorty)
 
 <!-- Teste Dev Cardume Digital -->
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/TesteDevCardumeDigital.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/TesteDevCardumeDigital.svg">
@@ -124,7 +122,6 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
 [![btnProjetoOnline](img/Project/Buttons/ProjetoOnline.svg)](https://github.com/ericrq/TesteDevCardumeDigital)
 
 <!-- Layout da Louna Skylander -->
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/LayoutdaLounaSkylander.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/LayoutdaLounaSkylander.svg">
@@ -142,7 +139,6 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
 [![btnProjetoOnline](img/Project/Buttons/ProjetoOnline.svg)](https://github.com/ericrq/LayoutLounaSkylander)
 
 <!-- Assitencia Tecnica - Spring -->
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AssitenciaTecnicaSpring.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AssitenciaTecnicaSpring.svg">
@@ -160,7 +156,6 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 [![btnProjetoOnline](img/Project/Buttons/ProjetoOnline.svg)](https://github.com/ericrq/ProjetoAssitenciaTenicaJavaSpring)
 
 <!-- Assistencia Tecnica - Laravel -->
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AssistenciaTecnicaLaravel.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AssistenciaTecnicaLaravel.svg">
@@ -178,7 +173,6 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 [![btnProjetoOnline](img/Project/Buttons/ProjetoOnline.svg)](https://github.com/ericrq/ProjetoAssistenciaTecnicaPHPLaravel)
 
 <!-- Assistencia Tecnica - Poo -->
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AssistenciaTecnicaPoo.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AssistenciaTecnicaPoo.svg">
@@ -196,7 +190,6 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com P
 [![btnProjetoOnline](img/Project/Buttons/ProjetoOnline.svg)](https://github.com/ericrq/ProjetoAssistenciaTecnicaPHP)
 
 <!-- Sistema De Crud -->
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/SistemaDeCrud.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/SistemaDeCrud.svg">
@@ -214,7 +207,6 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 [![btnProjetoOnline](img/Project/Buttons/ProjetoOnline.svg)](https://github.com/ericrq/SistemaDeCrud)
 
 <!-- Clone Tesla Cars -->
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/CloneTeslaCars.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/CloneTeslaCars.svg">
@@ -232,7 +224,6 @@ Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cy
 [![btnProjetoOnline](img/Project/Buttons/ProjetoOnline.svg)](https://github.com/ericrq/ProjetoTeslaCars)
 
 <!-- Clone Lolja -->
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/CloneLolja.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/CloneLolja.svg">
@@ -250,7 +241,6 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
 [![btnProjetoOnline](img/Project/Buttons/ProjetoOnline.svg)](https://github.com/ericrq/ProjetoLolja)
 
 <!-- Atlas Covid -->
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AtlasCovidMargin.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AtlasCovid.svg">
