@@ -274,7 +274,7 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AtlasCovid.svg">
     <img src="img/colorSchemeLight/projetos/AtlasCovid.svg">
 </picture>
-<img src="https://grabroos.sirv.com/ReadmeGithubEricRQ/covid.gif" width="100%">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g2Ufni1MIAo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div align="justify">
 
