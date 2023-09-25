@@ -8,7 +8,6 @@
     <img src="img/colorSchemeLight/mainTitles/Name.svg">
 </picture>
 
-
 <div align="justify">
 Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computador aos 6 anos de idade, fiquei fascinado por tecnologia começando a estudar hardware, focando meus estudos nessa área até o final do ensino médio. Ao entrar para a faculdade de análise e desenvolvimento de sistemas, decidi me dedicar ao desenvolvimento de software, com foco em front-end. Atualmente estou no 5º semestre da faculdade, dedicando-me a aprimorar minhas habilidades em programação e design. Fora da faculdade, gosto de passar meu tempo livre trabalhando em projetos pessoais e aprendendo novas tecnologias.
 </div>
@@ -46,7 +45,7 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
     <img src="img/colorSchemeLight/subTitles/ling-back.svg">
 </picture>
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/subTitles/frameworks-front.svg">
@@ -54,7 +53,7 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
     <img src="img/colorSchemeLight/subTitles/frameworks-front.svg">
 </picture>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/subTitles/frameworks-back.svg">
@@ -79,6 +78,7 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
 </picture>
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 <hr>
 
 <picture>
