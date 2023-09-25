@@ -275,7 +275,8 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
     <img src="img/colorSchemeLight/projetos/AtlasCovid.svg">
 </picture>
 
-  
+<img src="https://grabroos.sirv.com/ReadmeGithubEricRQ/covid.gif" width="100%">
+
 <div align="justify">
 
 Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela, vídeos informativos, perguntas e respostas. Feito com HTML e CSS.
