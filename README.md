@@ -285,7 +285,7 @@ Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela
 
 <a href="https://github.com/ericrq/AtlasCovid">
 <img src="img/Project/Buttons/ProjetoOnline.svg">
-</a>
+</a> 
 
 <hr>
 
