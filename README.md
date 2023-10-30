@@ -290,3 +290,6 @@ Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela
 <hr>
 
 </div>
+
+![ingur](https://imgur.com/dag73tX)
+![giphy](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pucnJqaDloemdma3E3bnhscnEwMnhzMHlnaG5yejk1anl6YTB0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6plT9wwNAJnRpTjkE1/giphy.gif)
