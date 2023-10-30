@@ -115,7 +115,9 @@ Um projeto com o objetivo de praticar o framework Vue.js e o consumo de uma API 
     <img src="img/colorSchemeLight/projetos/TesteDevCardumeDigital.svg">
 </picture>
 
-<img src="https://media4.giphy.com/media/qOTuE2WTfv6r5KzVzB/giphy.gif" width="100%">
+<video autoplay loop muted playsinline width="100%">
+  <source src="https://i.imgur.com/xsjJPsd.mp4" type="video/mp4">
+</video>
 
 <div align="justify">
 
