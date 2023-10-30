@@ -95,14 +95,15 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
     <img src="img/colorSchemeLight/projetos/RickandMorty.svg">
 </picture>
 
-<img src="https://media4.giphy.com/media/CMRjpETpNFH2eKMCoM/giphy.gif" width="100%">
+[![](img/Project/gifsThumbs/RickAndMorty.mp4)](img/Project/gifsThumbs/RickAndMorty.mp4)
+
 
 <div align="justify">
 
 Um projeto com o objetivo de praticar o framework Vue.js e o consumo de uma API pública. Foi utilizado a API da série Rick and Morty.
 
 </div>
-                                 
+
 <a href="https://github.com/ericrq/RickAndMorty">
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
