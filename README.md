@@ -95,8 +95,7 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
     <img src="img/colorSchemeLight/projetos/RickandMorty.svg">
 </picture>
 
-[![](img/Project/gifsThumbs/RickAndMorty.mp4)](img/Project/gifsThumbs/RickAndMorty.mp4)
-
+https://github.com/ericrq/ReadmeGitHub/assets/63780008/7f6d2def-205d-4203-b7ee-c2e12a24024d
 
 <div align="justify">
 
