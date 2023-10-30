@@ -95,8 +95,7 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
     <img src="img/colorSchemeLight/projetos/RickandMorty.svg">
 </picture>
 
-[![](img/Project/gifsThumbs/RickAndMorty.mp4)](img/Project/gifsThumbs/RickAndMorty.mp4)
-
+<video src="https://private-user-images.githubusercontent.com/63780008/279177011-7f6d2def-205d-4203-b7ee-c2e12a24024d.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTg2OTUzOTEsIm5iZiI6MTY5ODY5NTA5MSwicGF0aCI6Ii82Mzc4MDAwOC8yNzkxNzcwMTEtN2Y2ZDJkZWYtMjA1ZC00MjAzLWI3ZWUtYzJlMTJhMjQwMjRkLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMDMwVDE5NDQ1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmYWRjYmY3ZTg4ZmM2YWZiZmI1OWQ3NTVmNWZjNDllNThiNDc4MWQ0ZmYwZjk0NTZjYmFmYjI4ZDA5NWU0YzUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.7eyXRMuJQNoUKzYRky0o1lDw2gGdDqUNuaYqKkv7SDA" muted autoplay loop width="100%"></video>
 
 <div align="justify">
 
