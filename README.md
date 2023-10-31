@@ -95,7 +95,7 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
     <img src="img/colorSchemeLight/projetos/RickandMorty.svg">
 </picture>
 
-<img src="src/img/Project/gifsThumbs/RickAndMorty.gif" width="100%">
+<img src="img\Project\gifsThumbs\RickAndMorty.gif" width="100%">
 
 <div align="justify">
 
