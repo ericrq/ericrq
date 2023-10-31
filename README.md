@@ -135,7 +135,7 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
     <img src="img/colorSchemeLight/projetos/LayoutdaLounaSkylander.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\LayoutLounaSkylander_Trim.gif" width="100%">
+<img src="img\Project\gifsThumbs\LayoutLounaSkylander.gif" width="100%">
 
 <div align="justify">
 
@@ -155,7 +155,7 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
     <img src="img/colorSchemeLight/projetos/AssitenciaTecnicaSpring.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\AssistenciaTecnica_Trim.gif" width="100%">
+<img src="img\Project\gifsThumbs\AssistenciaTecnica.gif" width="100%">
 
 <div align="justify">
 
@@ -175,7 +175,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
     <img src="img/colorSchemeLight/projetos/AssistenciaTecnicaLaravel.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\AssistenciaTecnica_Trim.gif" width="100%">
+<img src="img\Project\gifsThumbs\AssistenciaTecnica.gif" width="100%">
 
 <div align="justify">
 
@@ -195,7 +195,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
     <img src="img/colorSchemeLight/projetos/AssistenciaTecnicaPoo.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\AssistenciaTecnica_Trim.gif" width="100%">
+<img src="img\Project\gifsThumbs\AssistenciaTecnica.gif" width="100%">
 
 <div align="justify">
 
@@ -217,7 +217,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com P
 
 <div align="justify">
 
-<img src="img\Project\gifsThumbs\AssistenciaTecnica_Trim.gif" width="100%">
+<img src="img\Project\gifsThumbs\SistemaCrud.gif" width="100%">
 
 Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MySQL. Permite cadastro, leitura, atualização e exclusão de registros na tabela
 
@@ -235,7 +235,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
     <img src="img/colorSchemeLight/projetos/CloneTeslaCars.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\TeslaCars_Trim.gif" width="100%">
+<img src="img\Project\gifsThumbs\TeslaCars.gif" width="100%">
 
 <div align="justify">
 
@@ -255,7 +255,7 @@ Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cy
     <img src="img/colorSchemeLight/projetos/CloneLolja.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\LoLJa_Trim.gif" width="100%">
+<img src="img\Project\gifsThumbs\LoLJa.gif" width="100%">
 
 <div align="justify">
 
@@ -275,7 +275,7 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
     <img src="img/colorSchemeLight/projetos/AtlasCovid.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\Covid19_Trim.gif" width="100%">
+<img src="img\Project\gifsThumbs\Covid19.gif" width="100%">
 
 <div align="justify">
 
