@@ -175,7 +175,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
     <img src="img/colorSchemeLight/projetos/AssistenciaTecnicaLaravel.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\AssistenciaTecnica.gif" width="100%">
+<img src="img\Project\gifsThumbs\AssitenciaTecnicaPHP.gif" width="100%">
 
 <div align="justify">
 
@@ -195,7 +195,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
     <img src="img/colorSchemeLight/projetos/AssistenciaTecnicaPoo.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\AssistenciaTecnica.gif" width="100%">
+<img src="img\Project\gifsThumbs\AssitenciaTecnicaPHP.gif" width="100%">
 
 <div align="justify">
 
