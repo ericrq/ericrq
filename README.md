@@ -95,7 +95,7 @@ Olá, meu nome é Eric. Tenho 21 anos e, desde que ganhei meu primeiro computado
     <img src="img/colorSchemeLight/projetos/RickandMorty.svg">
 </picture>
 
-<img src="https://media4.giphy.com/media/CMRjpETpNFH2eKMCoM/giphy.gif" width="100%">
+<img src="src/img/Project/gifsThumbs/RickAndMorty.gif" width="100%">
 
 <div align="justify">
 
@@ -115,7 +115,7 @@ Um projeto com o objetivo de praticar o framework Vue.js e o consumo de uma API 
     <img src="img/colorSchemeLight/projetos/TesteDevCardumeDigital.svg">
 </picture>
 
-<img src="https://media4.giphy.com/media/4plm2zEPcfCVK1FsAk/giphy.gif" width="100%">
+<img src="img\Project\gifsThumbs\TesteDevCardumeDigital.gif" width="100%">
 
 <div align="justify">
 
@@ -135,7 +135,7 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
     <img src="img/colorSchemeLight/projetos/LayoutdaLounaSkylander.svg">
 </picture>
 
-<img src="https://media4.giphy.com/media/TuqvmKa4D4CuJBhDmV/giphy.gif" width="100%">
+<img src="img\Project\gifsThumbs\LayoutLounaSkylander_Trim.gif" width="100%">
 
 <div align="justify">
 
@@ -155,7 +155,7 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
     <img src="img/colorSchemeLight/projetos/AssitenciaTecnicaSpring.svg">
 </picture>
 
-<img src="https://media4.giphy.com/media/8e8AQTVwajzx6FdfZP/giphy.gif" width="100%">
+<img src="img\Project\gifsThumbs\AssistenciaTecnica_Trim.gif" width="100%">
 
 <div align="justify">
 
@@ -175,7 +175,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
     <img src="img/colorSchemeLight/projetos/AssistenciaTecnicaLaravel.svg">
 </picture>
 
-<img src="https://media4.giphy.com/media/8e8AQTVwajzx6FdfZP/giphy.gif" width="100%">
+<img src="img\Project\gifsThumbs\AssistenciaTecnica_Trim.gif" width="100%">
 
 <div align="justify">
 
@@ -195,7 +195,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
     <img src="img/colorSchemeLight/projetos/AssistenciaTecnicaPoo.svg">
 </picture>
 
-<img src="https://media4.giphy.com/media/8e8AQTVwajzx6FdfZP/giphy.gif" width="100%">
+<img src="img\Project\gifsThumbs\AssistenciaTecnica_Trim.gif" width="100%">
 
 <div align="justify">
 
@@ -217,7 +217,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com P
 
 <div align="justify">
 
-<img src="https://media4.giphy.com/media/8e8AQTVwajzx6FdfZP/giphy.gif" width="100%">
+<img src="img\Project\gifsThumbs\AssistenciaTecnica_Trim.gif" width="100%">
 
 Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MySQL. Permite cadastro, leitura, atualização e exclusão de registros na tabela
 
@@ -235,7 +235,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
     <img src="img/colorSchemeLight/projetos/CloneTeslaCars.svg">
 </picture>
 
-<img src="https://media4.giphy.com/media/hsZjx8w3RSHS69ifyb/giphy.gif" width="100%">
+<img src="img\Project\gifsThumbs\TeslaCars_Trim.gif" width="100%">
 
 <div align="justify">
 
@@ -255,7 +255,7 @@ Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cy
     <img src="img/colorSchemeLight/projetos/CloneLolja.svg">
 </picture>
 
-<img src="https://media4.giphy.com/media/T7XLOtshRKToZavE1l/giphy.gif" width="100%">
+<img src="img\Project\gifsThumbs\LoLJa_Trim.gif" width="100%">
 
 <div align="justify">
 
@@ -275,7 +275,7 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
     <img src="img/colorSchemeLight/projetos/AtlasCovid.svg">
 </picture>
 
-<img src="https://media4.giphy.com/media/rmIGsmtj9ZhgKlWS2d/giphy.gif" width="100%">
+<img src="img\Project\gifsThumbs\Covid19_Trim.gif" width="100%">
 
 <div align="justify">
 
