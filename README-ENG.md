@@ -99,7 +99,7 @@ Hello, my name is Eric. I'm 22 years old and, since I got my first computer at t
 
 <div align="justify">
 
-CRUD system for fictitious technical assistance, made in HTML, CSS, Java and MySQL, the Spring and Vue framework was used. Allows registration, reading, updating and deleting records in the table
+CRUD system for fictitious technical assistance, made in HTML, CSS, Java and MySQL, the Spring and Vue framework was used. Allows registration, reading, updating and deleting records in cards.
 
 </div>
 
