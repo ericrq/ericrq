@@ -9,7 +9,7 @@
 </picture>
 
 <div align="justify">
-Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computador aos 6 anos de idade, fiquei fascinado por tecnologia começando a estudar hardware, focando meus estudos nessa área até o final do ensino médio. Ao entrar para a faculdade de análise e desenvolvimento de sistemas, decidi me dedicar ao desenvolvimento de software, com foco em front-end. Atualmente estou no 5º semestre da faculdade, dedicando-me a aprimorar minhas habilidades em programação e design. Fora da faculdade, gosto de passar meu tempo livre trabalhando em projetos pessoais e aprendendo novas tecnologias.
+Hello, my name is Eric. I'm 22 years old and, since I got my first computer at the age of 6, I was fascinated by technology, starting to study hardware, focusing my studies in this area until the end of high school. When I started studying systems analysis and development, I decided to dedicate myself to software development, with a focus on front-end. I'm currently in my 5th semester of college, dedicating myself to improving my programming and design skills. Outside of college, I like to spend my free time working on personal projects and learning new technologies.
 </div>
 <hr>
 
@@ -99,7 +99,7 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 
 <div align="justify">
 
-Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e MySQL foi utilizado o framework Spring E Vue. Permite cadastro, leitura, atualização e exclusão de registros na tabela
+CRUD system for fictitious technical assistance, made in HTML, CSS, Java and MySQL, the Spring and Vue framework was used. Allows registration, reading, updating and deleting records in the table
 
 </div>
 
@@ -119,7 +119,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 
 <div align="justify">
 
-Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor front-end, com HTML, CSS, JS e Bootstrap 5.
+Layout replication proposed by Cardume Digital in test for front-end developer, with HTML, CSS, JS and Bootstrap 5.
 
 </div>
 
@@ -139,7 +139,7 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
 
 <div align="justify">
 
-Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo prático do framework Bootstrap 5.
+Project based on the Louna Skylander layout, with the main objective of practical study of the Bootstrap 5 framework.
 
 </div>
 
@@ -159,7 +159,7 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
 
 <div align="justify">
 
-Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e MySQL foi utilizado o framework Spring. Permite cadastro, leitura, atualização e exclusão de registros na tabela
+CRUD system for fictitious technical assistance, made in HTML, CSS, Java and MySQL, the Spring framework was used. Allows registration, reading, updating and deleting records in the table.
 
 </div>
 
@@ -179,7 +179,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 
 <div align="justify">
 
-Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MySQL foi utilizado o framework Laravel. Permite cadastro, leitura, atualização e exclusão de registros na tabela
+CRUD system for fictitious technical assistance, made in HTML, CSS, PHP and MySQL, the Laravel framework was used. Allows registration, reading, updating and deleting records in the table.
 
 </div>
 
@@ -199,7 +199,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 
 <div align="justify">
 
-Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com Programaçao Orientada a Objetos e MySQL. Permite cadastro, leitura, atualização e exclusão de registros na tabela
+CRUD system for fictitious technical assistance, made in HTML, CSS, PHP with Object Oriented Programming and MySQL. Allows registration, reading, updating and deleting records in the table.
 
 </div>
 
@@ -219,7 +219,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com P
 
 <img src="img\Project\gifsThumbs\SistemaCrud.gif" width="100%">
 
-Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MySQL. Permite cadastro, leitura, atualização e exclusão de registros na tabela
+CRUD system for fictitious technical assistance, made in HTML, CSS, PHP and MySQL. Allows registration, reading, updating and deletion of records in the table.
 
 </div>
 
@@ -239,7 +239,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 
 <div align="justify">
 
-Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cybertruck e Semitruck.
+HTML/CSS clone of the tesla website, displaying car models with emphasis on Cybertruck and Semitruck.
 
 </div>
 
@@ -259,7 +259,7 @@ Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cy
 
 <div align="justify">
 
-Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com nome, imagem e valor.
+HTML/CSS clone of the lolja website, featuring featured product cards with name, image and value.
 
 </div>
 
@@ -279,7 +279,7 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
 
 <div align="justify">
 
-Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela, vídeos informativos, perguntas e respostas. Feito com HTML e CSS.
+My first project in Web Development displays data about COVID-19 in a table, informative videos, questions and answers. Made with HTML and CSS.
 
 </div>
 
