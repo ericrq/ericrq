@@ -77,7 +77,6 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
     <img src="img/colorSchemeLight/subTitles/design.svg">
 </picture>
 
-
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <hr>
