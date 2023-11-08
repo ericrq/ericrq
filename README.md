@@ -87,6 +87,26 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
     <img src="img/colorSchemeLight/Project.svg">
 </picture>
 
+<!-- Assitencia Tecnica Spring Vue API -->
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AssitenciaTecnicaSpringVueAPI.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AssitenciaTecnicaSpringVueAPI.svg">
+    <img src="img/colorSchemeLight/projetos/AssitenciaTecnicaSpringVueAPI.svg">
+</picture>
+
+<img src="img/Project/gifsThumbs/AssistenciaTecnicaSpringVueAPI.gif" width="100%">
+
+<div align="justify">
+
+Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e MySQL foi utilizado o framework Spring E Vue. Permite cadastro, leitura, atualização e exclusão de registros na tabela
+
+</div>
+
+<a href="https://github.com/ericrq/TesteDevCardumeDigital">
+<img src="img/Project/Buttons/ProjetoOnline.svg">
+</a>
+
 <!-- Teste Dev Cardume Digital -->
 <br>
 <picture>
