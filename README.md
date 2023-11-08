@@ -130,9 +130,9 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
 <!-- Assitencia Tecnica - Spring -->
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AssitenciaTecnicaSpring.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AssitenciaTecnicaSpring.svg">
-    <img src="img/colorSchemeLight/projetos/AssitenciaTecnicaSpring.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img\colorSchemeDark\projetos\AssitenciaTecnicaSpringThymeleaf.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img\colorSchemeLight\projetos\AssitenciaTecnicaSpringThymeleaf.svg">
+    <img src="img/colorSchemeLight/projetos/AssitenciaTecnicaSpringThymeleaf.svg">
 </picture>
 
 <img src="img\Project\gifsThumbs/AssitenciaTecnicaPHP.gif" width="100%">
