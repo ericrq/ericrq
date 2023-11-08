@@ -293,6 +293,7 @@ Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela
 <img src="img/EngVersion/titleIngVersion.svg">
 
 <br>
+<br>
 
 <a href="https://github.com/ericrq/ReadmeGitHub/blob/master/README-en.md">
 <img src="img/EngVersion/btnAccessIng.svg">
