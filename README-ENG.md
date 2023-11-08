@@ -104,7 +104,7 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, Java and MyS
 </div>
 
 <a href="https://github.com/ericrq/ProjetoAssitenciaTenicaJavaSpringAPIVue">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
 <!-- Teste Dev Cardume Digital -->
@@ -124,7 +124,7 @@ Layout replication proposed by Cardume Digital in test for front-end developer, 
 </div>
 
 <a href="https://github.com/ericrq/TesteDevCardumeDigital">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
 <!-- Layout da Louna Skylander -->
@@ -164,7 +164,7 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, Java and MyS
 </div>
 
 <a href="https://github.com/ericrq/ProjetoAssitenciaTenicaJavaSpring">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
 <!-- Assistencia Tecnica - Laravel -->
@@ -184,7 +184,7 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, PHP and MySQ
 </div>
 
 <a href="https://github.com/ericrq/ProjetoAssistenciaTecnicaPHPLaravel">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
 <!-- Assistencia Tecnica - Poo -->
@@ -204,7 +204,7 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, PHP with Obj
 </div>
 
 <a href="https://github.com/ericrq/ProjetoAssistenciaTecnicaPHP">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
 <!-- Sistema De Crud -->
@@ -224,7 +224,7 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, PHP and MySQ
 </div>
 
 <a href="https://github.com/ericrq/SistemaDeCrud">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
 <!-- Clone Tesla Cars -->
@@ -244,7 +244,7 @@ HTML/CSS clone of the tesla website, displaying car models with emphasis on Cybe
 </div>
 
 <a href="https://github.com/ericrq/ProjetoTeslaCars">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
 <!-- Clone Lolja -->
@@ -264,7 +264,7 @@ HTML/CSS clone of the lolja website, featuring featured product cards with name,
 </div>
 
 <a href="https://github.com/ericrq/ProjetoLolja">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
 <!-- Atlas Covid -->
@@ -284,7 +284,7 @@ My first project in Web Development displays data about COVID-19 in a table, inf
 </div>
 
 <a href="https://github.com/ericrq/AtlasCovid">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
 <hr>
