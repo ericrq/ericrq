@@ -135,7 +135,7 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
     <img src="img/colorSchemeLight/projetos/AssitenciaTecnicaSpring.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\AssistenciaTecnicaSpring.gif" width="100%">
+<img src="img\Project\gifsThumbs/AssitenciaTecnicaPHP.gif" width="100%">
 
 <div align="justify">
 
