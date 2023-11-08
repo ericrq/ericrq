@@ -103,7 +103,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 
 </div>
 
-<a href="https://github.com/ericrq/TesteDevCardumeDigital">
+<a href="https://github.com/ericrq/ProjetoAssitenciaTenicaJavaSpringAPIVue">
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 
@@ -123,7 +123,7 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
 
 </div>
 
-<a href="https://github.com/ericrq/ProjetoAssitenciaTenicaJavaSpringAPIVue">
+<a href="https://github.com/ericrq/TesteDevCardumeDigital">
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 
