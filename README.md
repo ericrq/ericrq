@@ -290,13 +290,16 @@ Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela
 <hr>
 
 <!-- eng version -->
-<img src="img/EngVersion/titleIngVersion.svg">
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/EngVersion/dark/TitleIngVersion.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/EngVersion/light/TitleIngVersion.svg">
+    <img src="img/EngVersion/light/TitleIngVersion.svg">
+</picture>
 <br>
 <br>
 
 <a href="https://github.com/ericrq/ReadmeGitHub/blob/master/README-ENG.md">
-<img src="img/EngVersion/btnAccessIng.svg">
+<img src="img/EngVersion/BtnAccessEngVersion.svg">
 </a>
 
 </div>
