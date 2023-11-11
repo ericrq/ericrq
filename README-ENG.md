@@ -87,6 +87,26 @@ Hello, my name is Eric. I'm 22 years old and, since I got my first computer at t
     <img src="img/EngVersion/light/Project.svg">
 </picture>
 
+<!-- RideShare Bot-->
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/RideShareBot.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/RideShareBot.svg">
+    <img src="img/colorSchemeLight/projetos/RideShareBot.svg">
+</picture>
+
+<img src="img/Project/gifsThumbs/RideShareBot.gif" width="100%">
+
+<div align="justify">
+
+Registration System for College Carpools Made in Python With SQLite Database and Discord Library, It is Possible to Register Carpool, Delete Carpool and Check in a Table How Much Should Be Paid for Each Driver.
+
+</div>
+
+<a href="https://github.com/ericrq/RideShareBot">
+<img src="img/Project/Buttons/ProjetoOnline.svg">
+</a>
+
 <!-- Assitencia Tecnica Spring Vue API -->
 <br>
 <picture>
