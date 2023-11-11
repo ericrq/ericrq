@@ -3,9 +3,9 @@
 <!-- <img src="img/EricTitle.svg"> -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/mainTitles/Name.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/mainTitles/Name.svg">
-    <img src="img/colorSchemeLight/mainTitles/Name.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/Eric.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/Eric.svg">
+    <img src="img/BR/Light/Eric.svg">
 </picture>
 
 <div align="justify">
@@ -16,9 +16,9 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 
 <!-- social midia -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/mainTitles/SocialMidia.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/mainTitles/SocialMidia.svg">
-    <img src="img/colorSchemeLight/mainTitles/SocialMidia.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/SocialMidia.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/SocialMidia.svg">
+    <img src="img/BR/Light/SocialMidia.svg">
 </picture>
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/eric_rq) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric_rq/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericrq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericbaldissera/)
@@ -28,56 +28,56 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 <!-- skills -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/mainTitles/Skills.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/mainTitles/Skills.svg">
-    <img src="img/colorSchemeLight/mainTitles/Skills.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/Skills.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/Skills.svg">
+    <img src="img/BR/Light/Skills.svg">
 </picture>
 
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/subTitles/ling-front.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/subTitles/ling-front.svg">
-    <img src="img/colorSchemeLight/subTitles/ling-front.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/LanguagesFrontEnd.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/LanguagesFrontEnd.svg">
+    <img src="img/BR/Light/LanguagesFrontEnd.svg">
 </picture>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/subTitles/ling-back.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/subTitles/ling-back.svg">
-    <img src="img/colorSchemeLight/subTitles/ling-back.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/LanguagesBackEnd.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/LanguagesBackEnd.svg">
+    <img src="img/BR/Light/LanguagesBackEnd.svg">
 </picture>
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/subTitles/frameworks-front.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/subTitles/frameworks-front.svg">
-    <img src="img/colorSchemeLight/subTitles/frameworks-front.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/FrameworksFrontEnd.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/FrameworksFrontEnd.svg">
+    <img src="img/BR/Light/FrameworksFrontEnd.svg">
 </picture>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/subTitles/frameworks-back.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/subTitles/frameworks-back.svg">
-    <img src="img/colorSchemeLight/subTitles/frameworks-back.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/FrameworksBackEnd.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/FrameworksBackEnd.svg">
+    <img src="img/BR/Light/FrameworksBackEnd.svg">
 </picture>
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/subTitles/bd.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/subTitles/bd.svg">
-    <img src="img/colorSchemeLight/subTitles/bd.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/DataBase.svg
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/DataBase.svg">
+    <img src="img/BR/Light/DataBase.svg">
 </picture>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/subTitles/design.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/subTitles/design.svg">
-    <img src="img/colorSchemeLight/subTitles/design.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/Design.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/Design.svg">
+    <img src="img/BR/Light/Design.svg">
 </picture>
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -85,9 +85,9 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 <hr>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/mainTitles/Project.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/mainTitles/Project.svg">
-    <img src="img/colorSchemeLight/Project.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/Projects.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/Projects.svg">
+    <img src="img/BR/Light/Projects.svg">
 </picture>
 
 <br>
@@ -95,12 +95,12 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 <!-- RideShare Bot-->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/RideShareBot.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/RideShareBot.svg">
-    <img src="img/colorSchemeLight/projetos/RideShareBot.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/RideShare.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/RideShare.svg">
+    <img src="img/BR/Light/RideShare.svg">
 </picture>
 
-<img src="img/Project/gifsThumbs/RideShareBot.gif" width="100%">
+<img src="img/Gifs/RideShareBot.gif" width="100%">
 
 <div align="justify">
 
@@ -117,12 +117,12 @@ Sistema De Registro Para Caronas Da Faculdade Feito Em Python Com Banco De Dados
 <!-- Assitencia Tecnica Spring Vue API -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AssitenciaTecnicaSpringVueAPI.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AssitenciaTecnicaSpringVueAPI.svg">
-    <img src="img/colorSchemeLight/projetos/AssitenciaTecnicaSpringVueAPI.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/AssitenciaTecnicaSpringVueAPI.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/AssitenciaTecnicaSpringVueAPI.svg">
+    <img src="img/BR/Light/AssitenciaTecnicaSpringVueAPI.svg">
 </picture>
 
-<img src="img/Project/gifsThumbs/AssistenciaTecnicaSpringVueAPI.gif" width="100%">
+<img src="img/Gifs/TechnicalAssistanceSpringVueAPI.gif" width="100%">
 
 <div align="justify">
 
@@ -131,7 +131,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 </div>
 
 <a href="https://github.com/ericrq/ProjetoAssitenciaTenicaJavaSpringAPIVue">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/BR/Buttons/GithubProject.svg">
 </a>
 
 <hr>
@@ -139,12 +139,12 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 <!-- Teste Dev Cardume Digital -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/TesteDevCardumeDigital.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/TesteDevCardumeDigital.svg">
-    <img src="img/colorSchemeLight/projetos/TesteDevCardumeDigital.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/TestDevCardumeDigital.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/TestDevCardumeDigital.svg">
+    <img src="img/BR/Light/TestDevCardumeDigital.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\TesteDevCardumeDigital.gif" width="100%">
+<img src="img/Gifs/TestDevCardumeDigital.gif" width="100%">
 
 <div align="justify">
 
@@ -153,7 +153,7 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
 </div>
 
 <a href="https://github.com/ericrq/TesteDevCardumeDigital">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/BR/Buttons/GithubProject.svg">
 </a>
 
 <hr>
@@ -161,12 +161,12 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
 <!-- Layout da Louna Skylander -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/LayoutdaLounaSkylander.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/LayoutdaLounaSkylander.svg">
-    <img src="img/colorSchemeLight/projetos/LayoutdaLounaSkylander.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/LayoutdaLounaSkylander.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/LayoutdaLounaSkylander.svg">
+    <img src="img/BR/Light/LayoutdaLounaSkylander.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\LayoutLounaSkylander.gif" width="100%">
+<img src="img/Gifs/LayoutLounaSkylander.gif" width="100%">
 
 <div align="justify">
 
@@ -175,7 +175,7 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
 </div>
 
 <a href="https://github.com/ericrq/LayoutLounaSkylander">
-<img src="img/Project/Thumb/../Buttons/ProjetoOnline.svg">
+<img src="img/BR/Buttons/GithubProject.svg">
 </a>
 
 <hr>
@@ -183,12 +183,12 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
 <!-- Assitencia Tecnica - Spring -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img\colorSchemeDark\projetos\AssitenciaTecnicaSpringThymeleaf.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img\colorSchemeLight\projetos\AssitenciaTecnicaSpringThymeleaf.svg">
-    <img src="img/colorSchemeLight/projetos/AssitenciaTecnicaSpringThymeleaf.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/TechnicalAssistanceThymeleaf.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/TechnicalAssistanceThymeleaf.svg">
+    <img src="img/BR/Light/TechnicalAssistanceThymeleaf.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs/AssitenciaTecnicaPHP.gif" width="100%">
+<img src="img/Gifs/TechnicalAssistancePhpLaravelSpringThymeleaf.gif" width="100%">
 
 <div align="justify">
 
@@ -197,7 +197,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 </div>
 
 <a href="https://github.com/ericrq/ProjetoAssitenciaTenicaJavaSpring">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/BR/Buttons/GithubProject.svg">
 </a>
 
 <hr>
@@ -210,7 +210,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
     <img src="img/colorSchemeLight/projetos/AssistenciaTecnicaLaravel.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\AssitenciaTecnicaPHP.gif" width="100%">
+<img src="img/Gifs/TechnicalAssistancePhpLaravelSpringThymeleaf.gif" width="100%">
 
 <div align="justify">
 
@@ -219,7 +219,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 </div>
 
 <a href="https://github.com/ericrq/ProjetoAssistenciaTecnicaPHPLaravel">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/BR/Buttons/GithubProject.svg">
 </a>
 
 <hr>
@@ -227,12 +227,12 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 <!-- Assistencia Tecnica - Poo -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AssistenciaTecnicaPoo.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AssistenciaTecnicaPoo.svg">
-    <img src="img/colorSchemeLight/projetos/AssistenciaTecnicaPoo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/TechnicalAssistancePoo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/TechnicalAssistancePoo.svg">
+    <img src="img/BR/Light/TechnicalAssistancePoo.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\AssitenciaTecnicaPHP.gif" width="100%">
+<img src="img/Gifs/TechnicalAssistancePhpLaravelSpringThymeleaf.gif" width="100%">
 
 <div align="justify">
 
@@ -241,7 +241,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com P
 </div>
 
 <a href="https://github.com/ericrq/ProjetoAssistenciaTecnicaPHP">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/BR/Buttons/GithubProject.svg">
 </a>
 
 <hr>
@@ -249,21 +249,21 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com P
 <!-- Sistema De Crud -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/SistemaDeCrud.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/SistemaDeCrud.svg">
-    <img src="img/colorSchemeLight/projetos/SistemaDeCrud.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/CrudSystem.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/CrudSystem.svg">
+    <img src="img/BR/Light/CrudSystem.svg">
 </picture>
 
 <div align="justify">
 
-<img src="img\Project\gifsThumbs\SistemaCrud.gif" width="100%">
+<img src="img/Gifs/CrudSystem.gif" width="100%">
 
 Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MySQL. Permite cadastro, leitura, atualização e exclusão de registros na tabela
 
 </div>
 
 <a href="https://github.com/ericrq/SistemaDeCrud">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/BR/Buttons/GithubProject.svg">
 </a>
 
 <hr>
@@ -271,12 +271,12 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 <!-- Clone Tesla Cars -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/CloneTeslaCars.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/CloneTeslaCars.svg">
-    <img src="img/colorSchemeLight/projetos/CloneTeslaCars.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/CloneTeslaCars.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/CloneTeslaCars.svg">
+    <img src="img/BR/Light/CloneTeslaCars.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\TeslaCars.gif" width="100%">
+<img src="img/Gifs/CloneTeslaCars.gif" width="100%">
 
 <div align="justify">
 
@@ -285,7 +285,7 @@ Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cy
 </div>
 
 <a href="https://github.com/ericrq/ProjetoTeslaCars">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/BR/Buttons/GithubProject.svg">
 </a>
 
 <hr>
@@ -293,12 +293,12 @@ Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cy
 <!-- Clone Lolja -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/CloneLolja.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/CloneLolja.svg">
-    <img src="img/colorSchemeLight/projetos/CloneLolja.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/CloneLolja.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/CloneLolja.svg">
+    <img src="img/BR/Light/CloneLolja.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\LoLJa.gif" width="100%">
+<img src="img/Gifs/CloneLoLJa.gif" width="100%">
 
 <div align="justify">
 
@@ -307,7 +307,7 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
 </div>
 
 <a href="https://github.com/ericrq/ProjetoLolja">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/BR/Buttons/GithubProject.svg">
 </a>
 
 <hr>
@@ -315,12 +315,12 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
 <!-- Atlas Covid -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AtlasCovidMargin.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AtlasCovid.svg">
-    <img src="img/colorSchemeLight/projetos/AtlasCovid.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/AtlasCovid.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/AtlasCovid.svg">
+    <img src="img/BR/Light/AtlasCovid.svg">
 </picture>
 
-<img src="img\Project\gifsThumbs\Covid19.gif" width="100%">
+<img src="img/Gifs/AtlasCovid.gif" width="100%">
 
 <div align="justify">
 
@@ -329,7 +329,7 @@ Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela
 </div>
 
 <a href="https://github.com/ericrq/AtlasCovid">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/BR/Buttons/GithubProject.svg">
 </a>
 
 <hr>
@@ -337,9 +337,9 @@ Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela
 <!-- eng version -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/EngVersion/dark/TitleIngVersion.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/EngVersion/light/TitleIngVersion.svg">
-    <img src="img/EngVersion/light/TitleIngVersion.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/EngVersion.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/EngVersion.svg">
+    <img src="img/BR/Light/EngVersion.svg">
 </picture>
 <br>
 <br>
