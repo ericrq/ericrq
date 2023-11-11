@@ -88,7 +88,9 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 </picture>
 
 <!-- RideShare Bot-->
+
 <br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/RideShareBot.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/RideShareBot.svg">
@@ -108,7 +110,9 @@ Sistema De Registro Para Caronas Da Faculdade Feito Em Python Com Banco De Dados
 </a>
 
 <!-- Assitencia Tecnica Spring Vue API -->
+
 <br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AssitenciaTecnicaSpringVueAPI.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AssitenciaTecnicaSpringVueAPI.svg">
@@ -127,8 +131,12 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 
+<hr>
+
 <!-- Teste Dev Cardume Digital -->
+
 <br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/TesteDevCardumeDigital.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/TesteDevCardumeDigital.svg">
@@ -147,8 +155,12 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 
+<hr>
+
 <!-- Layout da Louna Skylander -->
+
 <br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/LayoutdaLounaSkylander.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/LayoutdaLounaSkylander.svg">
@@ -167,8 +179,12 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
 <img src="img/Project/Thumb/../Buttons/ProjetoOnline.svg">
 </a>
 
+<hr>
+
 <!-- Assitencia Tecnica - Spring -->
+
 <br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img\colorSchemeDark\projetos\AssitenciaTecnicaSpringThymeleaf.svg">
   <source media="(prefers-color-scheme: light)" srcset="img\colorSchemeLight\projetos\AssitenciaTecnicaSpringThymeleaf.svg">
@@ -187,8 +203,12 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 
+<hr>
+
 <!-- Assistencia Tecnica - Laravel -->
+
 <br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AssistenciaTecnicaLaravel.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AssistenciaTecnicaLaravel.svg">
@@ -207,8 +227,12 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 
+<hr>
+
 <!-- Assistencia Tecnica - Poo -->
+
 <br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AssistenciaTecnicaPoo.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AssistenciaTecnicaPoo.svg">
@@ -227,8 +251,12 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com P
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 
+<hr>
+
 <!-- Sistema De Crud -->
+
 <br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/SistemaDeCrud.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/SistemaDeCrud.svg">
@@ -247,8 +275,12 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 
+<hr>
+
 <!-- Clone Tesla Cars -->
+
 <br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/CloneTeslaCars.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/CloneTeslaCars.svg">
@@ -267,8 +299,12 @@ Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cy
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 
+<hr>
+
 <!-- Clone Lolja -->
+
 <br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/CloneLolja.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/CloneLolja.svg">
@@ -287,8 +323,12 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 
+<hr>
+
 <!-- Atlas Covid -->
+
 <br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AtlasCovidMargin.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AtlasCovid.svg">
@@ -310,6 +350,7 @@ Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela
 <hr>
 
 <!-- eng version -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EngVersion/dark/TitleIngVersion.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/EngVersion/light/TitleIngVersion.svg">
