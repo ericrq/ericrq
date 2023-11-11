@@ -11,6 +11,7 @@
 <div align="justify">
 Hello, my name is Eric. I'm 22 years old and, since I got my first computer at the age of 6, I was fascinated by technology, starting to study hardware, focusing my studies in this area until the end of high school. When I started studying systems analysis and development, I decided to dedicate myself to software development, with a focus on front-end. I'm currently in my 5th semester of college, dedicating myself to improving my programming and design skills. Outside of college, I like to spend my free time working on personal projects and learning new technologies.
 </div>
+
 <hr>
 
 <!-- social midia -->
@@ -88,7 +89,9 @@ Hello, my name is Eric. I'm 22 years old and, since I got my first computer at t
 </picture>
 
 <!-- RideShare Bot-->
+
 <br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/RideShareBot.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/RideShareBot.svg">
@@ -107,8 +110,10 @@ Registration System for College Carpools Made in Python With SQLite Database and
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 
+<hr>
+
 <!-- Assitencia Tecnica Spring Vue API -->
-<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EngVersion/dark/TechnicalAssistanceSpringVueAPI.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/EngVersion/light/TechnicalAssistanceSpringVueAPI.svg">
@@ -127,8 +132,10 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, Java and MyS
 <img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
+<hr>
+
 <!-- Teste Dev Cardume Digital -->
-<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EngVersion/dark/TestDevCardumeDigital.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/EngVersion/light/TestDevCardumeDigital.svg">
@@ -147,8 +154,10 @@ Layout replication proposed by Cardume Digital in test for front-end developer, 
 <img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
+<hr>
+
 <!-- Layout da Louna Skylander -->
-<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EngVersion/dark/LayoutLounaSkylander.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/EngVersion/light/LayoutLounaSkylander.svg">
@@ -167,8 +176,10 @@ Project based on the Louna Skylander layout, with the main objective of practica
 <img src="img/Project/Thumb/../Buttons/ProjetoOnline.svg">
 </a>
 
+<hr>
+
 <!-- Assitencia Tecnica - Spring -->
-<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EngVersion/dark/TechnicalAssistanceSpringThymeleaf.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/EngVersion/light/TechnicalAssistanceSpringThymeleaf.svg">
@@ -187,8 +198,10 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, Java and MyS
 <img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
+<hr>
+
 <!-- Assistencia Tecnica - Laravel -->
-<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EngVersion/dark/TechnicalAssistanceLaravel.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/EngVersion/light/TechnicalAssistanceLaravel.svg">
@@ -207,8 +220,10 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, PHP and MySQ
 <img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
+<hr>
+
 <!-- Assistencia Tecnica - Poo -->
-<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EngVersion/dark/TechnicalAssistancePoo.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/EngVersion/light/TechnicalAssistancePoo.svg">
@@ -227,8 +242,10 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, PHP with Obj
 <img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
+<hr>
+
 <!-- Sistema De Crud -->
-<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EngVersion/dark/CrudSystem.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/EngVersion/light/CrudSystem.svg">
@@ -247,8 +264,10 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, PHP and MySQ
 <img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
+<hr>
+
 <!-- Clone Tesla Cars -->
-<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EngVersion/dark/CloneTeslaCars.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/EngVersion/light/CloneTeslaCars.svg">
@@ -267,8 +286,10 @@ HTML/CSS clone of the tesla website, displaying car models with emphasis on Cybe
 <img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
+<hr>
+
 <!-- Clone Lolja -->
-<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EngVersion/dark/CloneLolja.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/EngVersion/light/CloneLolja.svg">
@@ -287,8 +308,10 @@ HTML/CSS clone of the lolja website, featuring featured product cards with name,
 <img src="img/EngVersion/BtnProjectOnline.svg">
 </a>
 
+<hr>
+
 <!-- Atlas Covid -->
-<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EngVersion/dark/AtlasCovid.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/EngVersion/light/AtlasCovid.svg">
