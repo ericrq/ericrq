@@ -23,7 +23,9 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/eric_rq) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric_rq/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericrq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericbaldissera/)
 
 <hr>
+
 <!-- skills -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/mainTitles/Skills.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/mainTitles/Skills.svg">
@@ -86,6 +88,8 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/mainTitles/Project.svg">
     <img src="img/colorSchemeLight/Project.svg">
 </picture>
+
+<br>
 
 <!-- RideShare Bot-->
 
