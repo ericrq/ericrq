@@ -99,7 +99,7 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 
 <div align="justify">
 
-Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e MySQL foi utilizado o framework Spring E Vue. Permite cadastro, leitura, atualização e exclusão de registros nos cards.
+Sistema De Registro Para Caronas Da Faculdade Feito Em Python Com Banco De Dados SQLite E A Biblioteca Do Discord, É Possivel Registrar Carona, Deletar Carona E Verificar Em Uma Tabela Quanto Deve Ser Pago Para Cada Motorista.
 
 </div>
 
