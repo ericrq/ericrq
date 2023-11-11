@@ -90,7 +90,6 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 </picture>
 
 <hr>
-<br>
 
 <!-- RideShare Bot-->
 
