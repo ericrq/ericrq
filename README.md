@@ -89,8 +89,6 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 
 <!-- RideShare Bot-->
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/RideShareBot.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/RideShareBot.svg">
@@ -109,9 +107,9 @@ Sistema De Registro Para Caronas Da Faculdade Feito Em Python Com Banco De Dados
 <img src="img/Project/Buttons/ProjetoOnline.svg">
 </a>
 
-<!-- Assitencia Tecnica Spring Vue API -->
+<hr>
 
-<br>
+<!-- Assitencia Tecnica Spring Vue API -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AssitenciaTecnicaSpringVueAPI.svg">
@@ -135,8 +133,6 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 
 <!-- Teste Dev Cardume Digital -->
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/TesteDevCardumeDigital.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/TesteDevCardumeDigital.svg">
@@ -158,8 +154,6 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
 <hr>
 
 <!-- Layout da Louna Skylander -->
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/LayoutdaLounaSkylander.svg">
@@ -183,8 +177,6 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
 
 <!-- Assitencia Tecnica - Spring -->
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img\colorSchemeDark\projetos\AssitenciaTecnicaSpringThymeleaf.svg">
   <source media="(prefers-color-scheme: light)" srcset="img\colorSchemeLight\projetos\AssitenciaTecnicaSpringThymeleaf.svg">
@@ -206,8 +198,6 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 <hr>
 
 <!-- Assistencia Tecnica - Laravel -->
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AssistenciaTecnicaLaravel.svg">
@@ -231,8 +221,6 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 
 <!-- Assistencia Tecnica - Poo -->
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AssistenciaTecnicaPoo.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AssistenciaTecnicaPoo.svg">
@@ -254,8 +242,6 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com P
 <hr>
 
 <!-- Sistema De Crud -->
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/SistemaDeCrud.svg">
@@ -279,8 +265,6 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 
 <!-- Clone Tesla Cars -->
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/CloneTeslaCars.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/CloneTeslaCars.svg">
@@ -303,8 +287,6 @@ Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cy
 
 <!-- Clone Lolja -->
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/CloneLolja.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/CloneLolja.svg">
@@ -326,8 +308,6 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
 <hr>
 
 <!-- Atlas Covid -->
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AtlasCovidMargin.svg">
