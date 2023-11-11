@@ -87,6 +87,26 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
     <img src="img/colorSchemeLight/Project.svg">
 </picture>
 
+<!-- RideShare Bot-->
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/RideShareBot.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/RideShareBot.svg">
+    <img src="img/colorSchemeLight/projetos/RideShareBot.svg">
+</picture>
+
+<img src="img/Project/gifsThumbs/RideShareBot.gif" width="100%">
+
+<div align="justify">
+
+Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e MySQL foi utilizado o framework Spring E Vue. Permite cadastro, leitura, atualização e exclusão de registros nos cards.
+
+</div>
+
+<a href="https://github.com/ericrq/RideShareBot">
+<img src="img/Project/Buttons/ProjetoOnline.svg">
+</a>
+
 <!-- Assitencia Tecnica Spring Vue API -->
 <br>
 <picture>
