@@ -16,9 +16,9 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 
 <!-- social midia -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/SocialMidia.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/SocialMedia.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/SocialMidia.svg">
-    <img src="img/BR/Light/SocialMidia.svg">
+    <img src="img/BR/Light/SocialMedia.svg">
 </picture>
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/eric_rq) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric_rq/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericrq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericbaldissera/)
@@ -67,7 +67,7 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/DataBase.svg
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/DataBase.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/DataBase.svg">
     <img src="img/BR/Light/DataBase.svg">
 </picture>
@@ -85,9 +85,9 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 <hr>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/Projects.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/Projects.svg">
-    <img src="img/BR/Light/Projects.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/Project.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/Project.svg">
+    <img src="img/BR/Light/Project.svg">
 </picture>
 
 <br>
@@ -109,7 +109,7 @@ Sistema De Registro Para Caronas Da Faculdade Feito Em Python Com Banco De Dados
 </div>
 
 <a href="https://github.com/ericrq/RideShareBot">
-<img src="img/Project/Buttons/ProjetoOnline.svg">
+<img src="img/BR/Buttons/GithubProject.svg">
 </a>
 
 <hr>
@@ -117,9 +117,9 @@ Sistema De Registro Para Caronas Da Faculdade Feito Em Python Com Banco De Dados
 <!-- Assitencia Tecnica Spring Vue API -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/AssitenciaTecnicaSpringVueAPI.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/AssitenciaTecnicaSpringVueAPI.svg">
-    <img src="img/BR/Light/AssitenciaTecnicaSpringVueAPI.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/TechnicalAssistanceSpringVueAPI.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/TechnicalAssistanceSpringVueAPI.svg">
+    <img src="img/BR/Light/TechnicalAssistanceSpringVueAPI.svg">
 </picture>
 
 <img src="img/Gifs/TechnicalAssistanceSpringVueAPI.gif" width="100%">
@@ -161,9 +161,9 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
 <!-- Layout da Louna Skylander -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/LayoutdaLounaSkylander.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/LayoutdaLounaSkylander.svg">
-    <img src="img/BR/Light/LayoutdaLounaSkylander.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/LounaSkylanderLayout.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/LounaSkylanderLayout.svg">
+    <img src="img/BR/Light/LounaSkylanderLayout.svg">
 </picture>
 
 <img src="img/Gifs/LayoutLounaSkylander.gif" width="100%">
@@ -205,9 +205,9 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 <!-- Assistencia Tecnica - Laravel -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/colorSchemeDark/projetos/AssistenciaTecnicaLaravel.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/colorSchemeLight/projetos/AssistenciaTecnicaLaravel.svg">
-    <img src="img/colorSchemeLight/projetos/AssistenciaTecnicaLaravel.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/TechnicalAssistanceLaravel.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/TechnicalAssistanceLaravel.svg">
+    <img src="img/BR/Light/TechnicalAssistanceLaravel.svg">
 </picture>
 
 <img src="img/Gifs/TechnicalAssistancePhpLaravelSpringThymeleaf.gif" width="100%">
@@ -337,15 +337,15 @@ Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela
 <!-- eng version -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/EngVersion.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/EngVersion.svg">
-    <img src="img/BR/Light/EngVersion.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/English.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/English.svg">
+    <img src="img/EN/Light/English.svg">
 </picture>
 <br>
 <br>
 
 <a href="https://github.com/ericrq/ReadmeGitHub/blob/master/README-ENG.md">
-<img src="img/EngVersion/BtnAccessEngVersion.svg">
+<img src="img/EN/Buttons/Access.svg">
 </a>
 
 </div>

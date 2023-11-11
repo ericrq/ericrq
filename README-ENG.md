@@ -52,23 +52,23 @@ Hello, my name is Eric. I'm 22 years old and, since I got my first computer at t
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/FrameworkFrontEnd.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/FrameworkFrontEnd.svg">
-    <img src="img/EN/Light/FrameworkFrontEnd.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/FrameworksFrontEnd.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/FrameworksFrontEnd.svg">
+    <img src="img/EN/Light/FrameworksFrontEnd.svg">
 </picture>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/FrameworkBackEnd.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/FrameworkBackEnd.svg">
-    <img src="img/EN/Light/FrameworkBackEnd.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/FrameworksBackEnd.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/FrameworksBackEnd.svg">
+    <img src="img/EN/Light/FrameworksBackEnd.svg">
 </picture>
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/Database.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/DataBase.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/Database.svg">
     <img src="img/EN/Light/Database.svg">
 </picture>
@@ -86,9 +86,9 @@ Hello, my name is Eric. I'm 22 years old and, since I got my first computer at t
 <hr>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/Projects.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/Projects.svg">
-    <img src="img/EN/Light/Projects.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/Project.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/Project.svg">
+    <img src="img/EN/Light/Project.svg">
 </picture>
 
 <!-- RideShare Bot-->
@@ -96,9 +96,9 @@ Hello, my name is Eric. I'm 22 years old and, since I got my first computer at t
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/RideShareBot.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/RideShareBot.svg">
-    <img src="img/EN/Light/RideShareBot.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/RideShare.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/RideShare.svg">
+    <img src="img/EN/Light/RideShare.svg">
 </picture>
 
 <img src="img/Gifs/RideShareBot.gif" width="100%">
@@ -162,9 +162,9 @@ Layout replication proposed by Cardume Digital in test for front-end developer, 
 <!-- Layout da Louna Skylander -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/LayoutLounaSkylander.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/LayoutLounaSkylander.svg">
-    <img src="img/EN/Light/LayoutLounaSkylander.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/LounaSkylanderLayout.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/LounaSkylanderLayout.svg">
+    <img src="img/EN/Light/LounaSkylanderLayout.svg">
 </picture>
 
 <img src="img/Gifs/LayoutLounaSkylander.gif" width="100%">
@@ -184,9 +184,9 @@ Project based on the Louna Skylander layout, with the main objective of practica
 <!-- Assitencia Tecnica - Spring -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/TechnicalAssistanceSpring.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/TechnicalAssistanceSpring.svg">
-    <img src="img/EN/Light/TechnicalAssistanceSpring.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/TechnicalAssistanceThymeleaf.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/TechnicalAssistanceThymeleaf.svg">
+    <img src="img/EN/Light/TechnicalAssistanceThymeleaf.svg">
 </picture>
 
 <img src="img/Gifs/TechnicalAssistancePhpLaravelSpringThymeleaf.gif" width="100%">
@@ -299,7 +299,7 @@ HTML/CSS clone of the tesla website, displaying car models with emphasis on Cybe
     <img src="img/EN/Light/CloneLolja.svg">
 </picture>
 
-<img src="img/Gifs/CloneLolja.gif" width="100%">
+<img src="img/Gifs/CloneLoLJa.gif" width="100%">
 
 <div align="justify">
 
