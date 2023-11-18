@@ -17,7 +17,7 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 <!-- social midia -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/SocialMedia.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/SocialMidia.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/SocialMedia.svg">
     <img src="img/BR/Light/SocialMedia.svg">
 </picture>
 

@@ -69,8 +69,8 @@ Hello, my name is Eric. I'm 22 years old and, since I got my first computer at t
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/DataBase.svg">
-  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/Database.svg">
-    <img src="img/EN/Light/Database.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/DataBase.svg">
+    <img src="img/EN/Light/DataBase.svg">
 </picture>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
