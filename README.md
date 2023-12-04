@@ -90,8 +90,6 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
     <img src="img/BR/Light/Project.svg">
 </picture>
 
-<br>
-
 <!-- Rich And Morty -->
 
 <br>
