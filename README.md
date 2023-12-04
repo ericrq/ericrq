@@ -111,7 +111,7 @@ Um Projeto Desenvolvido Com o Objetivo De Praticar o Uso Do Framework Vue.js Con
 </div>
 
 <a href="https://github.com/ericrq/RickAndMorty">
-<img src="img/EN/Buttons/GithubProject.svg">
+<img src="img/BR/Buttons/GithubProject.svg">
 </a>
 
 <hr>
