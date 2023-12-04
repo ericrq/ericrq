@@ -91,6 +91,30 @@ Hello, my name is Eric. I'm 22 years old and, since I got my first computer at t
     <img src="img/EN/Light/Project.svg">
 </picture>
 
+<!-- Rich And Morty -->
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/RickAndMorty.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/RickAndMorty.svg">
+    <img src="img/EN/Light/RickAndMorty.svg">
+</picture>
+
+<img src="img/Gifs/RickAndMorty.gif" width="100%">
+
+<div align="justify">
+
+A Project Developed With The Objective Of Practicing The Use Of The Vue.js Framework Consuming Rick And Norty's Public API Using Axios For API Requests And Tailwindcss For Styling. In The Project It Is Possible To See All The Characters In The Series, Search By Name And Filter Them By Status, Gender And Species.
+
+</div>
+
+<a href="https://github.com/ericrq/RickAndMorty">
+<img src="img/EN/Buttons/GithubProject.svg">
+</a>
+
+<hr>
+
 <!-- RideShare Bot-->
 
 <br>
@@ -105,7 +129,7 @@ Hello, my name is Eric. I'm 22 years old and, since I got my first computer at t
 
 <div align="justify">
 
-Registration System for College Carpools Made in Python With SQLite Database and Discord Library, It is Possible to Register Carpool, Delete Carpool and Check in a Table How Much Should Be Paid for Each Driver.
+Registration System For College Carpools Made In Python With SQLite Database And Discord Library, It Is Possible To Register Carpool, Delete Carpool And Check In A Table How Much Should Be Paid For Each Driver.
 
 </div>
 
@@ -127,7 +151,7 @@ Registration System for College Carpools Made in Python With SQLite Database and
 
 <div align="justify">
 
-CRUD system for fictitious technical assistance, made in HTML, CSS, Java and MySQL, the Spring and Vue framework was used. Allows registration, reading, updating and deleting records in cards.
+CRUD System For Fictitious Technical Assistance, Made In HTML, CSS, Java And MySQL, The Spring And Vue Framework Was Used. Allows Registration, Reading, Updating And Deleting Records In cards.
 
 </div>
 
@@ -149,7 +173,7 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, Java and MyS
 
 <div align="justify">
 
-Layout replication proposed by Cardume Digital in test for front-end developer, with HTML, CSS, JS and Bootstrap 5.
+Layout Replication Proposed By Cardume Digital In Test For Front-end Developer, With HTML, CSS, JS And Bootstrap 5.
 
 </div>
 
@@ -171,7 +195,7 @@ Layout replication proposed by Cardume Digital in test for front-end developer, 
 
 <div align="justify">
 
-Project based on the Louna Skylander layout, with the main objective of practical study of the Bootstrap 5 framework.
+Project Based On The Louna Skylander Layout, With The Main Objective Of Practical Study Of The Bootstrap 5 Framework.
 
 </div>
 
@@ -193,7 +217,7 @@ Project based on the Louna Skylander layout, with the main objective of practica
 
 <div align="justify">
 
-CRUD system for fictitious technical assistance, made in HTML, CSS, Java and MySQL, the Spring framework was used. Allows registration, reading, updating and deleting records in the table.
+CRUD System For Fictitious Technical Assistance, Made In HTML, CSS, Java And MySQL, The Spring Framework Was Used. Allows Registration, Reading, Updating And Deleting Records In The Table.
 
 </div>
 
@@ -215,7 +239,7 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, Java and MyS
 
 <div align="justify">
 
-CRUD system for fictitious technical assistance, made in HTML, CSS, PHP and MySQL, the Laravel framework was used. Allows registration, reading, updating and deleting records in the table.
+CRUD System For Fictitious Technical Assistance, Made In HTML, CSS, PHP And MySQL, The Laravel Framework Was Used. Allows Registration, Reading, Updating And Deleting Records In The Table.
 
 </div>
 
@@ -237,7 +261,7 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, PHP and MySQ
 
 <div align="justify">
 
-CRUD system for fictitious technical assistance, made in HTML, CSS, PHP with Object Oriented Programming and MySQL. Allows registration, reading, updating and deleting records in the table.
+CRUD System For Fictitious Technical Assistance, Made In HTML, CSS, PHP With Object Oriented Programming And MySQL. Allows Registration, Reading, Updating And Deleting Records In The Table.
 
 </div>
 
@@ -259,7 +283,7 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, PHP with Obj
 
 <img src="img/Gifs/CrudSystem.gif" width="100%">
 
-CRUD system for fictitious technical assistance, made in HTML, CSS, PHP and MySQL. Allows registration, reading, updating and deletion of records in the table.
+CRUD System For Fictitious Technical Assistance, Made In HTML, CSS, PHP And MySQL. Allows Registration, Reading, Updating And Deletion Of Records In The Table.
 
 </div>
 
@@ -281,7 +305,7 @@ CRUD system for fictitious technical assistance, made in HTML, CSS, PHP and MySQ
 
 <div align="justify">
 
-HTML/CSS clone of the tesla website, displaying car models with emphasis on Cybertruck and Semitruck.
+HTML/CSS Clone Of The Tesla Website, Displaying Car Models With Emphasis On Cybertruck And Semitruck.
 
 </div>
 
@@ -303,7 +327,7 @@ HTML/CSS clone of the tesla website, displaying car models with emphasis on Cybe
 
 <div align="justify">
 
-HTML/CSS clone of the lolja website, featuring featured product cards with name, image and value.
+HTML/CSS Clone Of The Lolja Website, Featuring Featured Product Cards With Name, Image And Value.
 
 </div>
 
@@ -325,7 +349,7 @@ HTML/CSS clone of the lolja website, featuring featured product cards with name,
 
 <div align="justify">
 
-My first project in Web Development displays data about COVID-19 in a table, informative videos, questions and answers. Made with HTML and CSS.
+My First Project In Web Development Displays Data About COVID-19 In A Table, Informative Videos, Questions And Answers. Made With HTML And CSS.
 
 </div>
 

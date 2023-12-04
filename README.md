@@ -92,6 +92,30 @@ Olá, meu nome é Eric. Tenho 22 anos e, desde que ganhei meu primeiro computado
 
 <br>
 
+<!-- Rich And Morty -->
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/RickAndMorty.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/RickAndMorty.svg">
+    <img src="img/EN/Light/RickAndMorty.svg">
+</picture>
+
+<img src="img/Gifs/RickAndMorty.gif" width="100%">
+
+<div align="justify">
+
+Um Projeto Desenvolvido Com o Objetivo De Praticar o Uso Do Framework Vue.js Consumindo a API Publica Do Rick And Norty Usando Axios Para Requisições Da API e Tailwindcss Para Estilização. No Projeto É Possivel Ver Todos Os Personagens Da Serie, Buscar Por Nome E Filtra-los Por Status, Genero e Espécie.
+
+</div>
+
+<a href="https://github.com/ericrq/RickAndMorty">
+<img src="img/EN/Buttons/GithubProject.svg">
+</a>
+
+<hr>
+
 <!-- RideShare Bot-->
 
 <picture>
@@ -126,7 +150,7 @@ Sistema De Registro Para Caronas Da Faculdade Feito Em Python Com Banco De Dados
 
 <div align="justify">
 
-Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e MySQL foi utilizado o framework Spring E Vue. Permite cadastro, leitura, atualização e exclusão de registros nos cards.
+Sistema CRUD Para Assistência Técnica Fictícia, Feito Em HTML, CSS, Java E MySQL Foi Utilizado O Framework Spring E Vue. Permite Cadastro, Leitura, Atualização E Exclusão De Registros Nos Cards.
 
 </div>
 
@@ -148,7 +172,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 
 <div align="justify">
 
-Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor front-end, com HTML, CSS, JS e Bootstrap 5.
+Replicação De Layout Proposto Pela Cardume Digital Em Teste Para Desenvolvedor Front-end, Com HTML, CSS, JS E Bootstrap 5.
 
 </div>
 
@@ -170,7 +194,7 @@ Replicação de layout proposto pela Cardume Digital em teste para desenvolvedor
 
 <div align="justify">
 
-Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo prático do framework Bootstrap 5.
+Projeto Baseado No Layout Da Louna Skylander, Com O Objetivo Principal De Estudo Prático Do Framework Bootstrap 5.
 
 </div>
 
@@ -192,7 +216,7 @@ Projeto baseado no layout da Louna Skylander, com o objetivo principal de estudo
 
 <div align="justify">
 
-Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e MySQL foi utilizado o framework Spring. Permite cadastro, leitura, atualização e exclusão de registros na tabela
+Sistema CRUD Para Assistência Técnica Fictícia, Feito Em HTML, CSS, Java E MySQL Foi Utilizado O Framework Spring. Permite Cadastro, Leitura, Atualização E Exclusão De Registros Na Tabela.
 
 </div>
 
@@ -214,7 +238,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, Java e My
 
 <div align="justify">
 
-Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MySQL foi utilizado o framework Laravel. Permite cadastro, leitura, atualização e exclusão de registros na tabela
+Sistema CRUD Para Assistência Técnica Fictícia, Feito Em HTML, CSS, PHP E MySQL Foi Utilizado O Framework Laravel. Permite Cadastro, Leitura, Atualização E Exclusão De Registros Na Tabela.
 
 </div>
 
@@ -236,7 +260,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 
 <div align="justify">
 
-Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com Programaçao Orientada a Objetos e MySQL. Permite cadastro, leitura, atualização e exclusão de registros na tabela
+Sistema CRUD Para Assistência Técnica Fictícia, Feito Em HTML, CSS, PHP Com Programação Orientada A Objetos E MySQL. Permite Cadastro, Leitura, Atualização E Exclusão De Registros Na Tabela.
 
 </div>
 
@@ -258,7 +282,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP com P
 
 <img src="img/Gifs/CrudSystem.gif" width="100%">
 
-Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MySQL. Permite cadastro, leitura, atualização e exclusão de registros na tabela
+Sistema CRUD Para Assistência Técnica Fictícia, Feito Em HTML, CSS, PHP E MySQL. Permite Cadastro, Leitura, Atualização E Exclusão De Registros Na Tabela.
 
 </div>
 
@@ -280,7 +304,7 @@ Sistema CRUD para assistência técnica fictícia, feito em HTML, CSS, PHP e MyS
 
 <div align="justify">
 
-Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cybertruck e Semitruck.
+Clone Em HTML/CSS Do Site Tesla, Exibindo Modelos De Carros Com Destaque Para Cybertruck E Semitruck.
 
 </div>
 
@@ -302,7 +326,7 @@ Clone em HTML/CSS do site tesla, exibindo modelos de carros com destaque para Cy
 
 <div align="justify">
 
-Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com nome, imagem e valor.
+Clone Em HTML/CSS Do Site Lolja, Apresentando Cards De Produtos Em Destaque Com Nome, Imagem E Valor.
 
 </div>
 
@@ -324,7 +348,7 @@ Clone em HTML/CSS do site lolja, apresentando cards de produtos em destaque com 
 
 <div align="justify">
 
-Meu primeiro projeto em Desenvolvimento Web exibe dados sobre COVID-19 em tabela, vídeos informativos, perguntas e respostas. Feito com HTML e CSS.
+Meu Primeiro Projeto Em Desenvolvimento Web Exibe Dados Sobre COVID-19 Em Tabela, Vídeos Informativos, Perguntas E Respostas. Feito Com HTML E CSS.
 
 </div>
 
