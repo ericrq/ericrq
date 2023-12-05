@@ -9,8 +9,7 @@
 </picture>
 
 <div align="justify">
-Hello, my name is Eric. I'm 22 years old and, since I got my first computer at the age of 6, I was fascinated by technology, starting to study hardware, focusing my studies in this area until the end of high school. When I started studying systems analysis and development, I decided to dedicate myself to software development, with a focus on front-end. I'm currently in my 5th semester of college, dedicating myself to improving my programming and design skills. Outside of college, I like to spend my free time working on personal projects and learning new technologies.
-</div>
+"Hello, my name is Eric. I'm 22 years old and, since I got my first computer when I was 6 years old, I was fascinated by technology, starting to study hardware, focusing my studies in this area until the end of high school. Upon joining College of Systems Analysis and Development, I decided to dedicate myself to Software Development, with a focus on Front-End. I'm currently in the 5th Semester of College, dedicating myself to improving my skills in Programming and Design. Outside of College, I like spending time My Free Time Working On Personal Projects And Learning New Technologies."</div>
 
 <hr>
 
