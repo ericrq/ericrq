@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- <img src="img/EricTitle.svg"> -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/Eric.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/Eric.svg">
@@ -9,7 +7,7 @@
 </picture>
 
 <div align="justify">
-"Hello, my name is Eric. I'm 22 years old and, since I got my first computer when I was 6 years old, I was fascinated by technology, starting to study hardware, focusing my studies in this area until the end of high school. Upon joining College of Systems Analysis and Development, I decided to dedicate myself to Software Development, with a focus on Front-End. I'm currently in the 5th Semester of College, dedicating myself to improving my skills in Programming and Design. Outside of College, I like spending time My Free Time Working On Personal Projects And Learning New Technologies."</div>
+Hello, my name is Eric. I'm 23 years old and, since I got my first computer when I was 6 years old, I was fascinated by technology, starting to study hardware, focusing my studies in this area until the end of high school. Upon joining College of Systems Analysis and Development, I decided to dedicate myself to Software Development, with a focus on Front-End. I'm currently in the 6th Semester of College, dedicating myself to improving my skills in Programming and Design. Outside of College, I like spending time My Free Time Working On Personal Projects And Learning New Technologies.</div>
 
 <hr>
 
@@ -40,7 +38,7 @@
     <img src="img/EN/Light/LanguagesFrontEnd.svg">
 </picture>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/LanguagesBackEnd.svg">
@@ -48,7 +46,7 @@
     <img src="img/EN/Light/LanguagesBackEnd.svg">
 </picture>
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/FrameworksFrontEnd.svg">
@@ -56,7 +54,7 @@
     <img src="img/EN/Light/FrameworksFrontEnd.svg">
 </picture>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white) ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/FrameworksBackEnd.svg">
@@ -72,7 +70,23 @@
     <img src="img/EN/Light/DataBase.svg">
 </picture>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/Mobile.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/Mobile.svg">
+    <img src="img/EN/Light/Mobile.svg">
+</picture>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/Tools.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/Tools.svg">
+    <img src="img/BR/Light/Tools.svg">
+</picture>
+
+![Apollo Graphql](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)  ![DatoCMS](https://img.shields.io/badge/datocms-FF7751.svg?style=for-the-badge&logo=datocms&logoColor=white) ![Graphql](https://img.shields.io/badge/Graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/Design.svg">
@@ -80,7 +94,7 @@
     <img src="img/EngVersion/light/Design.svg">
 </picture>
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Material Design 3](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white)
 
 <hr>
 
@@ -89,6 +103,54 @@
   <source media="(prefers-color-scheme: light)" srcset="img/EN/Light/Project.svg">
     <img src="img/EN/Light/Project.svg">
 </picture>
+
+<!-- APP Competências Socioemocionais -->
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/APPCompetênciasSocioemocionais.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/APPCompetênciasSocioemocionais.svg">
+    <img src="img/BR/Light/APPCompetênciasSocioemocionais.svg">
+</picture>
+
+<img src="img/Gifs/APPCompetênciasSocioemocionais.gif" width="100%">
+
+<div align="justify">
+
+A project developed throughout 2024 as part of an IFRS research project aimed to create an educational Android application that incorporated the five socio-emotional competencies: self-management, social interaction, kindness, emotional resilience, and openness to new experiences. To achieve this goal, the application was structured with various activities, such as controlled breathing exercises, a quiz based on the Likert scale, challenges, content recommendations (videos, series, movies, and music), as well as a diary and an FAQ section with pre-defined questions and answers. Currently, the project is being adapted to become my Final Course Project (TCC) and has entered the testing phase. For more details, you can visit the project’s website. If you are interested in testing the application, at the end of the site there is a QR code or link that directs to Firebase Distribution, where an email will be requested to receive the APK download link.
+
+</div>
+
+<a href="https://ericrq.github.io/SiteCompetenciasSocioemocionais/">
+<img src="img/EN/Buttons/OnlineProject.svg">
+</a>
+
+<hr>
+
+<!-- gira mundo arte -->
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/GiraMundoArte.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/GiraMundoArte.svg">
+    <img src="img/BR/Light/GiraMundoArte.svg">
+</picture>
+
+<img src="img/Gifs/GiraMundoArte.gif" width="100%">
+
+<div align="justify">
+
+Creation of a Website for the Gira Mundo Arte Project, from the city of Veranópolis. The website aims to promote the project and its activities, including dates of upcoming events, as well as a blog with records of past activities. It also includes a space for contact and for supporters.
+
+</div>
+
+<a href="https://www.giramundoarte.com.br/">
+<img src="img/EN/Buttons/OnlineProject.svg">
+</a>
+
+<hr>
 
 <!-- Rich And Morty -->
 

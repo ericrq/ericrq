@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- <img src="img/EricTitle.svg"> -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/Eric.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/Eric.svg">
@@ -9,7 +7,8 @@
 </picture>
 
 <div align="justify">
-Olá, Meu Nome É Eric. Tenho 22 Anos E, Desde Que Ganhei Meu Primeiro Computador Aos 6 Anos De Idade, Fiquei Fascinado Por Tecnologia Começando A Estudar Hardware, Focando Meus Estudos Nessa Área Até O Final Do Ensino Médio. Ao Entrar Para A Faculdade De Análise E Desenvolvimento De Sistemas, Decidi Me Dedicar Ao Desenvolvimento De Software, Com Foco Em Front-End. Atualmente Estou No 5º Semestre Da Faculdade, Dedicando-Me A Aprimorar Minhas Habilidades Em Programação E Design. Fora Da Faculdade, Gosto De Passar Meu Tempo Livre Trabalhando Em Projetos Pessoais E Aprendendo Novas Tecnologias.
+
+Olá, Meu Nome É Eric. Tenho 23 Anos E, Desde Que Ganhei Meu Primeiro Computador Aos 6 Anos De Idade, Fiquei Fascinado Por Tecnologia Começando A Estudar Hardware, Focando Meus Estudos Nessa Área Até O Final Do Ensino Médio. Ao Entrar Para A Faculdade De Análise E Desenvolvimento De Sistemas, Decidi Me Dedicar Ao Desenvolvimento De Software, Com Foco Em Front-End. Atualmente Estou No 6º Semestre Da Faculdade, Dedicando-Me A Aprimorar Minhas Habilidades Em Programação E Design. Fora Da Faculdade, Gosto De Passar Meu Tempo Livre Trabalhando Em Projetos Pessoais E Aprendendo Novas Tecnologias.
 
 </div>
 
@@ -41,7 +40,7 @@ Olá, Meu Nome É Eric. Tenho 22 Anos E, Desde Que Ganhei Meu Primeiro Computado
     <img src="img/BR/Light/LanguagesFrontEnd.svg">
 </picture>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/LanguagesBackEnd.svg">
@@ -49,7 +48,7 @@ Olá, Meu Nome É Eric. Tenho 22 Anos E, Desde Que Ganhei Meu Primeiro Computado
     <img src="img/BR/Light/LanguagesBackEnd.svg">
 </picture>
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/FrameworksFrontEnd.svg">
@@ -57,7 +56,7 @@ Olá, Meu Nome É Eric. Tenho 22 Anos E, Desde Que Ganhei Meu Primeiro Computado
     <img src="img/BR/Light/FrameworksFrontEnd.svg">
 </picture>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white) ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/FrameworksBackEnd.svg">
@@ -73,7 +72,23 @@ Olá, Meu Nome É Eric. Tenho 22 Anos E, Desde Que Ganhei Meu Primeiro Computado
     <img src="img/BR/Light/DataBase.svg">
 </picture>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/Mobile.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/Mobile.svg">
+    <img src="img/BR/Light/Mobile.svg">
+</picture>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/Ferramentas.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/Ferramentas.svg">
+    <img src="img/BR/Light/Ferramentas.svg">
+</picture>
+
+![Apollo Graphql](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)  ![DatoCMS](https://img.shields.io/badge/datocms-FF7751.svg?style=for-the-badge&logo=datocms&logoColor=white) ![Graphql](https://img.shields.io/badge/Graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/Design.svg">
@@ -81,7 +96,7 @@ Olá, Meu Nome É Eric. Tenho 22 Anos E, Desde Que Ganhei Meu Primeiro Computado
     <img src="img/BR/Light/Design.svg">
 </picture>
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Material Design 3](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white)
 
 <hr>
 
@@ -90,6 +105,55 @@ Olá, Meu Nome É Eric. Tenho 22 Anos E, Desde Que Ganhei Meu Primeiro Computado
   <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/Project.svg">
     <img src="img/BR/Light/Project.svg">
 </picture>
+
+<!-- APP Competências Socioemocionais -->
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/APPCompetênciasSocioemocionais.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/APPCompetênciasSocioemocionais.svg">
+    <img src="img/BR/Light/APPCompetênciasSocioemocionais.svg">
+</picture>
+
+<img src="img/Gifs/APPCompetênciasSocioemocionais.gif" width="100%">
+
+<div align="justify">
+
+Um projeto desenvolvido ao longo de 2024 no âmbito de um projeto de pesquisa do IFRS teve como objetivo criar um aplicativo Android educativo que incorporasse as cinco competências socioemocionais: autogestão, interação social, amabilidade, resiliência emocional e abertura a novas experiências. Para alcançar esse objetivo, o aplicativo foi estruturado com diversas atividades, como exercícios de respiração controlada, um quizz baseado na escala Likert, desafios, recomendações de conteúdos (vídeos, séries, filmes e músicas), além de um diário e uma seção de FAQ com perguntas e respostas pré-definidas. Atualmente, o projeto está sendo adaptado para se tornar meu Trabalho de Conclusão de Curso (TCC) e entrou na fase de testes. Para mais detalhes, é possível acessar o site do projeto. Caso tenha interesse em testar o aplicativo, no final do site há um QR code ou link que direciona ao Firebase Distribution, onde será solicitado um e-mail para receber o link de download da APK.
+
+</div>
+
+<a href="https://ericrq.github.io/SiteCompetenciasSocioemocionais/">
+<img src="img/BR/Buttons/OnlineProject.svg">
+</a>
+
+<hr>
+
+<!-- gira mundo arte -->
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/GiraMundoArte.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/GiraMundoArte.svg">
+    <img src="img/BR/Light/GiraMundoArte.svg">
+</picture>
+
+<img src="img/Gifs/GiraMundoArte.gif" width="100%">
+
+<div align="justify">
+
+Criação De Um Site Para O Projeto Gira Mundo Arte, Da Cidade De Veranópolis. O Site Tem Como Objetivo Divulgar O Projeto E Suas Atividades, Incluindo As Datas De Eventos Futuros, Além De Um Blog Com Registros De Atividades Já Realizadas. Também Tem Um Espaço Para Contato E Para Apoiadores.
+
+</div>
+
+<a href="https://www.giramundoarte.com.br/">
+<img src="img/BR/Buttons/OnlineProject.svg">
+</a>
+
+<hr>
+
 
 <!-- Rich And Morty -->
 
