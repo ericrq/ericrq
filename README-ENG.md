@@ -78,7 +78,7 @@ Hello, my name is Eric. I'm 23 years old and, since I got my first computer when
     <img src="img/EN/Light/Mobile.svg">
 </picture>
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/Tools.svg">
@@ -86,7 +86,7 @@ Hello, my name is Eric. I'm 23 years old and, since I got my first computer when
     <img src="img/BR/Light/Tools.svg">
 </picture>
 
-![Apollo Graphql](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)  ![DatoCMS](https://img.shields.io/badge/datocms-FF7751.svg?style=for-the-badge&logo=datocms&logoColor=white) ![Graphql](https://img.shields.io/badge/Graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Apollo Graphql](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white) ![DatoCMS](https://img.shields.io/badge/datocms-FF7751.svg?style=for-the-badge&logo=datocms&logoColor=white) ![Graphql](https://img.shields.io/badge/Graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/Design.svg">
@@ -130,8 +130,6 @@ A project developed throughout 2024 as part of an IFRS research project aimed to
 
 <!-- gira mundo arte -->
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/GiraMundoArte.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/GiraMundoArte.svg">
@@ -153,8 +151,6 @@ Creation of a Website for the Gira Mundo Arte Project, from the city of Veranóp
 <hr>
 
 <!-- Rich And Morty -->
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/RickAndMorty.svg">

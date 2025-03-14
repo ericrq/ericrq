@@ -132,8 +132,6 @@ Um projeto desenvolvido ao longo de 2024 no âmbito de um projeto de pesquisa do
 
 <!-- gira mundo arte -->
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/BR/Dark/GiraMundoArte.svg">
   <source media="(prefers-color-scheme: light)" srcset="img/BR/Light/GiraMundoArte.svg">
@@ -154,10 +152,7 @@ Criação De Um Site Para O Projeto Gira Mundo Arte, Da Cidade De Veranópolis. 
 
 <hr>
 
-
 <!-- Rich And Morty -->
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="img/EN/Dark/RickAndMorty.svg">
